@@ -3671,13 +3671,6 @@
       "length": 480
     },
     {
-      "id": "_s7hax33kp",
-      "trackId": "_wur0tcd4x",
-      "note": 69,
-      "position": 67680,
-      "length": 1440
-    },
-    {
       "id": "_or93bkkw6",
       "trackId": "_wur0tcd4x",
       "note": 65,
@@ -5020,6 +5013,20 @@
       "note": 45,
       "position": 77760,
       "length": 480
+    },
+    {
+      "id": "_6hzzzj33j",
+      "trackId": "_y2iqkq6pu",
+      "note": 69,
+      "position": 6336,
+      "length": 480
+    },
+    {
+      "id": "_s7hax33kp",
+      "trackId": "_wur0tcd4x",
+      "note": 69,
+      "position": 67680,
+      "length": 1440
     }
   ],
   "tracks": [
@@ -5029,8 +5036,11 @@
       "color": "#2d9",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "volume": 0.03999999910593033,
-        "waveType": "square"
+        "waveType": "square",
+        "volume": 0.019999999552965164,
+        "delayTime": 0.30000001192092896,
+        "delayFeed": 0.20000000298023224,
+        "delayMix": 0.10000000149011612
       }
     },
     {
@@ -5039,8 +5049,11 @@
       "color": "#29d",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "volume": 0.019999999552965164,
-        "waveType": "square"
+        "waveType": "square",
+        "volume": 0.02500000037252903,
+        "delayTime": 0.10000000149011612,
+        "delayFeed": 0.20000000298023224,
+        "delayMix": 0.30000001192092896
       }
     },
     {
@@ -5049,8 +5062,11 @@
       "color": "#9d2",
       "instrumentId": "simple",
       "instrumentSettings": {
+        "waveType": "sawtooth",
         "volume": 0.029999999329447746,
-        "waveType": "sawtooth"
+        "delayTime": 0.10000000149011612,
+        "delayFeed": 0.30000001192092896,
+        "delayMix": 0.20000000298023224
       }
     },
     {
@@ -5059,11 +5075,14 @@
       "color": "#d29",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "volume": 0.019999999552965164,
-        "waveType": "square"
+        "waveType": "square",
+        "volume": 0.014999999664723873,
+        "delayTime": 0.10000000149011612,
+        "delayFeed": 0.20000000298023224,
+        "delayMix": 0.10000000149011612
       }
     }
   ],
   "focusedTrack": "_v6890onu9",
-  "cursor": 11520
+  "cursor": 107504
 }
