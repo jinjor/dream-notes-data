@@ -5037,10 +5037,14 @@
       "instrumentId": "simple",
       "instrumentSettings": {
         "waveType": "square",
-        "volume": 0.019999999552965164,
+        "attackTime": 0.02,
+        "decayTime": 0.1,
+        "sustainLevel": 0.6,
+        "releaseTime": 0.05,
         "delayTime": 0.30000001192092896,
         "delayFeed": 0.20000000298023224,
-        "delayMix": 0.10000000149011612
+        "delayMix": 0.05000000074505806,
+        "volume": 0.019999999552965164
       }
     },
     {
@@ -5049,11 +5053,15 @@
       "color": "#29d",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "waveType": "square",
-        "volume": 0.02500000037252903,
+        "waveType": "sawtooth",
+        "attackTime": 0.01,
+        "decayTime": 0.1,
+        "sustainLevel": 0.7,
+        "releaseTime": 0.05,
         "delayTime": 0.10000000149011612,
         "delayFeed": 0.20000000298023224,
-        "delayMix": 0.30000001192092896
+        "delayMix": 0.30000001192092896,
+        "volume": 0.02500000037252903
       }
     },
     {
@@ -5063,10 +5071,14 @@
       "instrumentId": "simple",
       "instrumentSettings": {
         "waveType": "sawtooth",
-        "volume": 0.029999999329447746,
+        "attackTime": 0.01,
+        "decayTime": 0.1,
+        "sustainLevel": 0.7,
+        "releaseTime": 0.05,
         "delayTime": 0.10000000149011612,
         "delayFeed": 0.30000001192092896,
-        "delayMix": 0.20000000298023224
+        "delayMix": 0.20000000298023224,
+        "volume": 0.019999999552965164
       }
     },
     {
@@ -5076,13 +5088,17 @@
       "instrumentId": "simple",
       "instrumentSettings": {
         "waveType": "square",
-        "volume": 0.014999999664723873,
+        "attackTime": 0.06,
+        "decayTime": 0.1,
+        "sustainLevel": 0.7,
+        "releaseTime": 0.15,
         "delayTime": 0.10000000149011612,
         "delayFeed": 0.20000000298023224,
-        "delayMix": 0.10000000149011612
+        "delayMix": 0.10000000149011612,
+        "volume": 0.014999999664723873
       }
     }
   ],
   "focusedTrack": "_v6890onu9",
-  "cursor": 107504
+  "cursor": 45027
 }
