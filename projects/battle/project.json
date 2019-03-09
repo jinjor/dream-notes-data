@@ -5054,7 +5054,7 @@
       "instrumentId": "simple",
       "instrumentSettings": {
         "waveType": "square",
-        "attackTime": 0.01,
+        "attackTime": 0,
         "decayTime": 0.1,
         "sustainLevel": 0.7,
         "releaseTime": 0.05,
@@ -5100,11 +5100,11 @@
     }
   ],
   "focusedTrack": "_y2iqkq6pu",
-  "cursor": 38654,
+  "cursor": 1281,
   "stepLength": 480,
   "visibleArea": {
-    "from": 26659.838893238746,
-    "to": 53319.67778647749
+    "from": 0,
+    "to": 26659.838893238746
   },
-  "recording": true
+  "recording": false
 }
