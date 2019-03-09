@@ -1,6 +1,6 @@
 {
   "id": "_fqogzffic",
-  "tempo": 180,
+  "tempo": 178,
   "notes": [
     {
       "id": "_uy5t1tip3",
@@ -5041,6 +5041,10 @@
         "decayTime": 0.1,
         "sustainLevel": 0.6,
         "releaseTime": 0.05,
+        "vibratoDelay": 0,
+        "vibratoAttack": 0.1,
+        "vibratoFreq": 0,
+        "vibratoDepth": 0,
         "delayTime": 0.30000001192092896,
         "delayFeed": 0.20000000298023224,
         "delayMix": 0.05000000074505806,
@@ -5058,6 +5062,10 @@
         "decayTime": 0.1,
         "sustainLevel": 0.7,
         "releaseTime": 0.05,
+        "vibratoDelay": 0.6,
+        "vibratoAttack": 0.2,
+        "vibratoFreq": 2.95,
+        "vibratoDepth": 3.7,
         "delayTime": 0.10000000149011612,
         "delayFeed": 0.20000000298023224,
         "delayMix": 0.30000001192092896,
@@ -5075,6 +5083,10 @@
         "decayTime": 0.1,
         "sustainLevel": 0.7,
         "releaseTime": 0.05,
+        "vibratoDelay": 0,
+        "vibratoAttack": 0.1,
+        "vibratoFreq": 0,
+        "vibratoDepth": 0,
         "delayTime": 0.10000000149011612,
         "delayFeed": 0.30000001192092896,
         "delayMix": 0.20000000298023224,
@@ -5092,6 +5104,10 @@
         "decayTime": 0.1,
         "sustainLevel": 0.7,
         "releaseTime": 0.15,
+        "vibratoDelay": 0.25,
+        "vibratoAttack": 0.4,
+        "vibratoFreq": 3.9,
+        "vibratoDepth": 1.85,
         "delayTime": 0.10000000149011612,
         "delayFeed": 0.20000000298023224,
         "delayMix": 0.10000000149011612,
@@ -5099,12 +5115,12 @@
       }
     }
   ],
-  "focusedTrack": "_y2iqkq6pu",
-  "cursor": 1281,
+  "focusedTrack": "_v6890onu9",
+  "cursor": 43094,
   "stepLength": 480,
   "visibleArea": {
-    "from": 0,
-    "to": 26659.838893238746
+    "from": 23214.775252473948,
+    "to": 46429.550504947896
   },
   "recording": false
 }
