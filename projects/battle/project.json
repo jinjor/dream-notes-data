@@ -5053,7 +5053,7 @@
       "color": "#29d",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "waveType": "sawtooth",
+        "waveType": "square",
         "attackTime": 0.01,
         "decayTime": 0.1,
         "sustainLevel": 0.7,
@@ -5061,7 +5061,7 @@
         "delayTime": 0.10000000149011612,
         "delayFeed": 0.20000000298023224,
         "delayMix": 0.30000001192092896,
-        "volume": 0.02500000037252903
+        "volume": 0.019999999552965164
       }
     },
     {
@@ -5099,6 +5099,12 @@
       }
     }
   ],
-  "focusedTrack": "_v6890onu9",
-  "cursor": 45027
+  "focusedTrack": "_y2iqkq6pu",
+  "cursor": 38654,
+  "stepLength": 480,
+  "visibleArea": {
+    "from": 26659.838893238746,
+    "to": 53319.67778647749
+  },
+  "recording": true
 }
