@@ -4211,7 +4211,7 @@
       "instrumentId": "simple",
       "instrumentSettings": {
         "waveType": "triangle",
-        "attackTime": 0.07,
+        "attackTime": 0.12,
         "decayTime": 0.55,
         "sustainLevel": 0.5,
         "releaseTime": 0.3,
@@ -4269,11 +4269,11 @@
     }
   ],
   "focusedTrack": "_89lmlizj9",
-  "cursor": 6720,
+  "cursor": 15618,
   "stepLength": 120,
   "visibleArea": {
     "from": 0,
-    "to": 43700
+    "to": 59200
   },
   "recording": false
 }
