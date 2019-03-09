@@ -4194,6 +4194,10 @@
         "decayTime": 0.2,
         "sustainLevel": 0.3,
         "releaseTime": 0.2,
+        "vibratoDelay": 0,
+        "vibratoAttack": 0.1,
+        "vibratoFreq": 0,
+        "vibratoDepth": 0,
         "delayTime": 0.25,
         "delayFeed": 0.30000001192092896,
         "delayMix": 0.20000000298023224,
@@ -4210,11 +4214,15 @@
         "attackTime": 0.07,
         "decayTime": 0.55,
         "sustainLevel": 0.5,
-        "releaseTime": 0.2,
+        "releaseTime": 0.3,
+        "vibratoDelay": 0.4,
+        "vibratoAttack": 0.3,
+        "vibratoFreq": 4.3,
+        "vibratoDepth": 5.95,
         "delayTime": 0.30000001192092896,
         "delayFeed": 0.5,
-        "delayMix": 0.30000001192092896,
-        "volume": 0.03999999910593033
+        "delayMix": 0.15000000596046448,
+        "volume": 0.03500000014901161
       }
     },
     {
@@ -4228,6 +4236,10 @@
         "decayTime": 0,
         "sustainLevel": 0.7,
         "releaseTime": 0.2,
+        "vibratoDelay": 0,
+        "vibratoAttack": 0.1,
+        "vibratoFreq": 0,
+        "vibratoDepth": 0,
         "delayTime": 0,
         "delayFeed": 0.10000000149011612,
         "delayMix": 0,
@@ -4245,6 +4257,10 @@
         "decayTime": 0.1,
         "sustainLevel": 0.7,
         "releaseTime": 0.2,
+        "vibratoDelay": 0,
+        "vibratoAttack": 0.1,
+        "vibratoFreq": 0,
+        "vibratoDepth": 0,
         "delayTime": 0.30000001192092896,
         "delayFeed": 0.10000000149011612,
         "delayMix": 0,
@@ -4252,8 +4268,8 @@
       }
     }
   ],
-  "focusedTrack": "_2emh46e8g",
-  "cursor": 13680,
+  "focusedTrack": "_89lmlizj9",
+  "cursor": 6720,
   "stepLength": 120,
   "visibleArea": {
     "from": 0,
