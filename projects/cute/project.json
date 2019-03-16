@@ -1,0 +1,748 @@
+{
+  "id": "_xzaj55lth",
+  "tempo": 143,
+  "notes": [
+    {
+      "id": "_g0trwrmtx",
+      "trackId": "_gvdkidxyp",
+      "note": 76,
+      "position": 1200,
+      "length": 240
+    },
+    {
+      "id": "_1i729wwhe",
+      "trackId": "_gvdkidxyp",
+      "note": 79,
+      "position": 1440,
+      "length": 240
+    },
+    {
+      "id": "_3ok3u9hun",
+      "trackId": "_gvdkidxyp",
+      "note": 81,
+      "position": 1680,
+      "length": 240
+    },
+    {
+      "id": "_x6bnp2yuw",
+      "trackId": "_gvdkidxyp",
+      "note": 76,
+      "position": 1200,
+      "length": 240
+    },
+    {
+      "id": "_qa0pttb4s",
+      "trackId": "_gvdkidxyp",
+      "note": 83,
+      "position": 1920,
+      "length": 240
+    },
+    {
+      "id": "_d0fxvu805",
+      "trackId": "_gvdkidxyp",
+      "note": 79,
+      "position": 2400,
+      "length": 240
+    },
+    {
+      "id": "_04zhgugkq",
+      "trackId": "_gvdkidxyp",
+      "note": 81,
+      "position": 2640,
+      "length": 240
+    },
+    {
+      "id": "_sh5r0tuol",
+      "trackId": "_gvdkidxyp",
+      "note": 81,
+      "position": 3120,
+      "length": 240
+    },
+    {
+      "id": "_gy6e1xhsq",
+      "trackId": "_gvdkidxyp",
+      "note": 86,
+      "position": 3360,
+      "length": 240
+    },
+    {
+      "id": "_f6sq8rs2w",
+      "trackId": "_gvdkidxyp",
+      "note": 81,
+      "position": 3600,
+      "length": 240
+    },
+    {
+      "id": "_ovp6ebdcu",
+      "trackId": "_gvdkidxyp",
+      "note": 81,
+      "position": 3840,
+      "length": 240
+    },
+    {
+      "id": "_sbigv8vk1",
+      "trackId": "_gvdkidxyp",
+      "note": 79,
+      "position": 4080,
+      "length": 240
+    },
+    {
+      "id": "_yuv66mtmz",
+      "trackId": "_gvdkidxyp",
+      "note": 78,
+      "position": 4320,
+      "length": 240
+    },
+    {
+      "id": "_huhbdscsx",
+      "trackId": "_gvdkidxyp",
+      "note": 79,
+      "position": 4560,
+      "length": 240
+    },
+    {
+      "id": "_i1fxbd8zb",
+      "trackId": "_gvdkidxyp",
+      "note": 76,
+      "position": 5040,
+      "length": 240
+    },
+    {
+      "id": "_oofu4duv9",
+      "trackId": "_gvdkidxyp",
+      "note": 79,
+      "position": 5280,
+      "length": 240
+    },
+    {
+      "id": "_2zfkhd98o",
+      "trackId": "_gvdkidxyp",
+      "note": 81,
+      "position": 5520,
+      "length": 240
+    },
+    {
+      "id": "_9ql5v31r9",
+      "trackId": "_gvdkidxyp",
+      "note": 83,
+      "position": 5760,
+      "length": 240
+    },
+    {
+      "id": "_0wsezv88z",
+      "trackId": "_gvdkidxyp",
+      "note": 79,
+      "position": 6240,
+      "length": 240
+    },
+    {
+      "id": "_3qlp0t8lp",
+      "trackId": "_gvdkidxyp",
+      "note": 81,
+      "position": 6480,
+      "length": 240
+    },
+    {
+      "id": "_atiwucbq5",
+      "trackId": "_gvdkidxyp",
+      "note": 86,
+      "position": 6960,
+      "length": 240
+    },
+    {
+      "id": "_am76p0eh0",
+      "trackId": "_gvdkidxyp",
+      "note": 88,
+      "position": 7200,
+      "length": 240
+    },
+    {
+      "id": "_8nae9kd17",
+      "trackId": "_gvdkidxyp",
+      "note": 90,
+      "position": 7440,
+      "length": 240
+    },
+    {
+      "id": "_h53g8lpef",
+      "trackId": "_gvdkidxyp",
+      "note": 86,
+      "position": 7920,
+      "length": 240
+    },
+    {
+      "id": "_iflay33z8",
+      "trackId": "_gvdkidxyp",
+      "note": 83,
+      "position": 8400,
+      "length": 240
+    },
+    {
+      "id": "_z7ts7l397",
+      "trackId": "_gvdkidxyp",
+      "note": 76,
+      "position": 8880,
+      "length": 240
+    },
+    {
+      "id": "_ulne4cktx",
+      "trackId": "_gvdkidxyp",
+      "note": 79,
+      "position": 9120,
+      "length": 240
+    },
+    {
+      "id": "_yfy0fhzph",
+      "trackId": "_gvdkidxyp",
+      "note": 81,
+      "position": 9360,
+      "length": 240
+    },
+    {
+      "id": "_q49p4ul7y",
+      "trackId": "_23c88dxvj",
+      "note": 59,
+      "position": 1920,
+      "length": 240
+    },
+    {
+      "id": "_vq7lc4w11",
+      "trackId": "_23c88dxvj",
+      "note": 64,
+      "position": 1920,
+      "length": 240
+    },
+    {
+      "id": "_kpg6sklmv",
+      "trackId": "_23c88dxvj",
+      "note": 67,
+      "position": 1920,
+      "length": 240
+    },
+    {
+      "id": "_qaj75xpci",
+      "trackId": "_23c88dxvj",
+      "note": 59,
+      "position": 2640,
+      "length": 240
+    },
+    {
+      "id": "_kt78zgfv1",
+      "trackId": "_23c88dxvj",
+      "note": 63,
+      "position": 2640,
+      "length": 240
+    },
+    {
+      "id": "_9dg7jm0a4",
+      "trackId": "_23c88dxvj",
+      "note": 67,
+      "position": 2640,
+      "length": 240
+    },
+    {
+      "id": "_22nfhfo2l",
+      "trackId": "_yjpud334f",
+      "note": 45,
+      "position": 1920,
+      "length": 240
+    },
+    {
+      "id": "_rjzmh2opg",
+      "trackId": "_yjpud334f",
+      "note": 38,
+      "position": 2640,
+      "length": 240
+    },
+    {
+      "id": "_lsbzy84gp",
+      "trackId": "_yjpud334f",
+      "note": 43,
+      "position": 3840,
+      "length": 240
+    },
+    {
+      "id": "_f5x7fh7yc",
+      "trackId": "_yjpud334f",
+      "note": 40,
+      "position": 4560,
+      "length": 240
+    },
+    {
+      "id": "_t8vg9ilri",
+      "trackId": "_yjpud334f",
+      "note": 45,
+      "position": 5760,
+      "length": 240
+    },
+    {
+      "id": "_kigbgkiyd",
+      "trackId": "_yjpud334f",
+      "note": 38,
+      "position": 6480,
+      "length": 240
+    },
+    {
+      "id": "_ls4wngcl4",
+      "trackId": "_yjpud334f",
+      "note": 41,
+      "position": 8160,
+      "length": 240
+    },
+    {
+      "id": "_tjhicxrj4",
+      "trackId": "_23c88dxvj",
+      "note": 59,
+      "position": 3840,
+      "length": 240
+    },
+    {
+      "id": "_88l2bxbnk",
+      "trackId": "_23c88dxvj",
+      "note": 62,
+      "position": 3840,
+      "length": 240
+    },
+    {
+      "id": "_rgglan0fi",
+      "trackId": "_23c88dxvj",
+      "note": 66,
+      "position": 3840,
+      "length": 240
+    },
+    {
+      "id": "_joeix2v70",
+      "trackId": "_23c88dxvj",
+      "note": 59,
+      "position": 4560,
+      "length": 240
+    },
+    {
+      "id": "_q46omgpq7",
+      "trackId": "_23c88dxvj",
+      "note": 62,
+      "position": 4560,
+      "length": 240
+    },
+    {
+      "id": "_7xm3wc477",
+      "trackId": "_23c88dxvj",
+      "note": 67,
+      "position": 4560,
+      "length": 240
+    },
+    {
+      "id": "_fdffn0tp0",
+      "trackId": "_23c88dxvj",
+      "note": 59,
+      "position": 5760,
+      "length": 240
+    },
+    {
+      "id": "_h6s3xocjo",
+      "trackId": "_23c88dxvj",
+      "note": 64,
+      "position": 5760,
+      "length": 240
+    },
+    {
+      "id": "_n221gi91l",
+      "trackId": "_23c88dxvj",
+      "note": 67,
+      "position": 5760,
+      "length": 240
+    },
+    {
+      "id": "_wa9nkfjw7",
+      "trackId": "_23c88dxvj",
+      "note": 59,
+      "position": 6480,
+      "length": 240
+    },
+    {
+      "id": "_wwqdai5rn",
+      "trackId": "_23c88dxvj",
+      "note": 63,
+      "position": 6480,
+      "length": 240
+    },
+    {
+      "id": "_pzs0e9z42",
+      "trackId": "_23c88dxvj",
+      "note": 67,
+      "position": 6480,
+      "length": 240
+    },
+    {
+      "id": "_473y55dnl",
+      "trackId": "_23c88dxvj",
+      "note": 59,
+      "position": 7680,
+      "length": 240
+    },
+    {
+      "id": "_2vnsnv3j2",
+      "trackId": "_23c88dxvj",
+      "note": 62,
+      "position": 7680,
+      "length": 240
+    },
+    {
+      "id": "_vyf0dp1hp",
+      "trackId": "_23c88dxvj",
+      "note": 66,
+      "position": 7680,
+      "length": 240
+    },
+    {
+      "id": "_770qdcmpe",
+      "trackId": "_23c88dxvj",
+      "note": 59,
+      "position": 8400,
+      "length": 240
+    },
+    {
+      "id": "_es8dq2ypq",
+      "trackId": "_23c88dxvj",
+      "note": 62,
+      "position": 8400,
+      "length": 240
+    },
+    {
+      "id": "_lu1qc8g68",
+      "trackId": "_23c88dxvj",
+      "note": 67,
+      "position": 8400,
+      "length": 240
+    },
+    {
+      "id": "_xf9v2a7mn",
+      "trackId": "_yjpud334f",
+      "note": 43,
+      "position": 7680,
+      "length": 240
+    },
+    {
+      "id": "_063h2nppa",
+      "trackId": "_yjpud334f",
+      "note": 40,
+      "position": 8400,
+      "length": 240
+    },
+    {
+      "id": "_27iwmdpdl",
+      "trackId": "_yjpud334f",
+      "note": 40,
+      "position": 8880,
+      "length": 240
+    },
+    {
+      "id": "_v466r380j",
+      "trackId": "_yjpud334f",
+      "note": 52,
+      "position": 9120,
+      "length": 240
+    },
+    {
+      "id": "_qgyc2a1gz",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 1920,
+      "length": 240
+    },
+    {
+      "id": "_652ngawsk",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 2400,
+      "length": 240
+    },
+    {
+      "id": "_jflng7rm5",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 2880,
+      "length": 240
+    },
+    {
+      "id": "_agipcq6gv",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 3360,
+      "length": 240
+    },
+    {
+      "id": "_2mum0ez6w",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 3840,
+      "length": 240
+    },
+    {
+      "id": "_1noa6voxm",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 4320,
+      "length": 240
+    },
+    {
+      "id": "_bhnniec65",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 4800,
+      "length": 240
+    },
+    {
+      "id": "_tavehazgm",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 5280,
+      "length": 240
+    },
+    {
+      "id": "_xfxkct43k",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 5760,
+      "length": 240
+    },
+    {
+      "id": "_rzikws8yk",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 6240,
+      "length": 240
+    },
+    {
+      "id": "_6lhjqu4dt",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 6720,
+      "length": 240
+    },
+    {
+      "id": "_l9lflanm3",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 7200,
+      "length": 240
+    },
+    {
+      "id": "_bihkg7f2b",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 7680,
+      "length": 240
+    },
+    {
+      "id": "_490uncdrp",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 8160,
+      "length": 240
+    },
+    {
+      "id": "_axcvs8alk",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 8640,
+      "length": 240
+    },
+    {
+      "id": "_k5iwajm1s",
+      "trackId": "_123pvido2",
+      "note": 31,
+      "position": 9120,
+      "length": 240
+    },
+    {
+      "id": "_j9rgk0lwm",
+      "trackId": "_364qpswtp",
+      "note": 95,
+      "position": 2160,
+      "length": 240
+    },
+    {
+      "id": "_e6fericdi",
+      "trackId": "_364qpswtp",
+      "note": 93,
+      "position": 4080,
+      "length": 240
+    },
+    {
+      "id": "_dwgxhmlua",
+      "trackId": "_364qpswtp",
+      "note": 95,
+      "position": 6000,
+      "length": 240
+    },
+    {
+      "id": "_ozehpv6hl",
+      "trackId": "_364qpswtp",
+      "note": 93,
+      "position": 7920,
+      "length": 240
+    },
+    {
+      "id": "_pg9u6h57s",
+      "trackId": "_364qpswtp",
+      "note": 98,
+      "position": 8880,
+      "length": 240
+    }
+  ],
+  "tracks": [
+    {
+      "id": "_gvdkidxyp",
+      "name": "Track 1",
+      "color": "#2d9",
+      "instrumentId": "simple",
+      "instrumentSettings": {
+        "ADSR": {
+          "attackTime": 0.01,
+          "decayTime": 0.1,
+          "sustainLevel": 0.05,
+          "releaseTime": 0.1
+        },
+        "Vibrato": {
+          "delay": 0,
+          "attack": 0.1,
+          "freq": 0,
+          "depth": 0
+        },
+        "Delay": {
+          "delayTime": 0.30000001192092896,
+          "delayFeed": 0.20000000298023224,
+          "delayMix": 0
+        },
+        "self": {
+          "waveType": "square",
+          "volume": 0.019999999552965164
+        }
+      }
+    },
+    {
+      "id": "_23c88dxvj",
+      "name": "Track 2",
+      "color": "#29d",
+      "instrumentId": "simple",
+      "instrumentSettings": {
+        "ADSR": {
+          "attackTime": 0.01,
+          "decayTime": 0.1,
+          "sustainLevel": 0.7,
+          "releaseTime": 0.1
+        },
+        "Vibrato": {
+          "delay": 0,
+          "attack": 0.1,
+          "freq": 0,
+          "depth": 0
+        },
+        "Delay": {
+          "delayTime": 0.30000001192092896,
+          "delayFeed": 0.20000000298023224,
+          "delayMix": 0
+        },
+        "self": {
+          "waveType": "triangle",
+          "volume": 0.019999999552965164
+        }
+      }
+    },
+    {
+      "id": "_364qpswtp",
+      "name": "Track 3",
+      "color": "#9d2",
+      "instrumentId": "simple",
+      "instrumentSettings": {
+        "ADSR": {
+          "attackTime": 0.25,
+          "decayTime": 0.05,
+          "sustainLevel": 0,
+          "releaseTime": 0.1
+        },
+        "Vibrato": {
+          "delay": 0,
+          "attack": 0.1,
+          "freq": 0,
+          "depth": 0
+        },
+        "Delay": {
+          "delayTime": 0.30000001192092896,
+          "delayFeed": 0.20000000298023224,
+          "delayMix": 0
+        },
+        "self": {
+          "waveType": "sawtooth",
+          "volume": 0.019999999552965164
+        }
+      }
+    },
+    {
+      "id": "_yjpud334f",
+      "name": "Track 4",
+      "color": "#d29",
+      "instrumentId": "simple",
+      "instrumentSettings": {
+        "ADSR": {
+          "attackTime": 0.01,
+          "decayTime": 0.1,
+          "sustainLevel": 0.7,
+          "releaseTime": 0.1
+        },
+        "Vibrato": {
+          "delay": 0,
+          "attack": 0.1,
+          "freq": 0,
+          "depth": 0
+        },
+        "Delay": {
+          "delayTime": 0.30000001192092896,
+          "delayFeed": 0.20000000298023224,
+          "delayMix": 0
+        },
+        "self": {
+          "waveType": "square",
+          "volume": 0.019999999552965164
+        }
+      }
+    },
+    {
+      "id": "_123pvido2",
+      "name": "Track 5",
+      "color": "#92d",
+      "instrumentId": "simple-drum",
+      "instrumentSettings": {
+        "ADSR": {
+          "attackTime": 0.01,
+          "decayTime": 0.2,
+          "sustainLevel": 0,
+          "releaseTime": 0.15
+        },
+        "Pitch": {
+          "initialPitch": 227,
+          "lastPitch": 23,
+          "pitchDecay": 0.05
+        },
+        "Delay": {
+          "delayTime": 0.30000001192092896,
+          "delayFeed": 0.20000000298023224,
+          "delayMix": 0
+        },
+        "self": {
+          "waveType": "square",
+          "volume": 0.03500000014901161
+        }
+      }
+    }
+  ],
+  "focusedTrack": "_364qpswtp",
+  "cursor": 1200,
+  "stepLength": 240,
+  "visibleArea": {
+    "from": 0,
+    "to": 15543.58565737052
+  },
+  "recording": true
+}
