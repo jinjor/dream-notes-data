@@ -1,6 +1,6 @@
 {
   "id": "_xzaj55lth",
-  "tempo": 143,
+  "tempo": 142,
   "notes": [
     {
       "id": "_g0trwrmtx",
@@ -70,13 +70,6 @@
       "trackId": "_gvdkidxyp",
       "note": 81,
       "position": 3600,
-      "length": 240
-    },
-    {
-      "id": "_ovp6ebdcu",
-      "trackId": "_gvdkidxyp",
-      "note": 81,
-      "position": 3840,
       "length": 240
     },
     {
@@ -633,13 +626,6 @@
       "length": 240
     },
     {
-      "id": "_gn9ww4kvb",
-      "trackId": "_gvdkidxyp",
-      "note": 81,
-      "position": 11520,
-      "length": 240
-    },
-    {
       "id": "_tgqi0hddx",
       "trackId": "_gvdkidxyp",
       "note": 79,
@@ -1125,14 +1111,14 @@
     {
       "id": "_09padcg8n",
       "trackId": "_23c88dxvj",
-      "note": 57,
+      "note": 69,
       "position": 15120,
       "length": 240
     },
     {
       "id": "_cbus4in1p",
       "trackId": "_23c88dxvj",
-      "note": 60,
+      "note": 62,
       "position": 15120,
       "length": 240
     },
@@ -1184,7 +1170,7 @@
         },
         "self": {
           "waveType": "square",
-          "volume": 0.029999999329447746
+          "volume": 0.02500000037252903
         }
       }
     },
@@ -1213,7 +1199,7 @@
         },
         "self": {
           "waveType": "triangle",
-          "volume": 0.019999999552965164
+          "volume": 0.02500000037252903
         }
       }
     },
@@ -1237,12 +1223,12 @@
         },
         "Delay": {
           "delayTime": 0.3499999940395355,
-          "delayFeed": 0.3499999940395355,
-          "delayMix": 0.44999998807907104
+          "delayFeed": 0.25,
+          "delayMix": 0.30000001192092896
         },
         "self": {
           "waveType": "sawtooth",
-          "volume": 0.019999999552965164
+          "volume": 0.014999999664723873
         }
       }
     },
@@ -1271,7 +1257,7 @@
         },
         "self": {
           "waveType": "square",
-          "volume": 0.029999999329447746
+          "volume": 0.02500000037252903
         }
       }
     },
@@ -1282,15 +1268,15 @@
       "instrumentId": "simple-drum",
       "instrumentSettings": {
         "ADSR": {
-          "attackTime": 0.01,
-          "decayTime": 0.2,
+          "attackTime": 0,
+          "decayTime": 0.1,
           "sustainLevel": 0,
-          "releaseTime": 0.15
+          "releaseTime": 0
         },
         "Pitch": {
-          "initialPitch": 227,
-          "lastPitch": 23,
-          "pitchDecay": 0.05
+          "initialPitch": 346,
+          "lastPitch": 54,
+          "pitchDecay": 0.04
         },
         "Delay": {
           "delayTime": 0.30000001192092896,
@@ -1298,18 +1284,18 @@
           "delayMix": 0
         },
         "self": {
-          "waveType": "square",
-          "volume": 0.05000000074505806
+          "waveType": "triangle",
+          "volume": 0.05999999865889549
         }
       }
     }
   ],
-  "focusedTrack": "_yjpud334f",
-  "cursor": 3762,
+  "focusedTrack": "_364qpswtp",
+  "cursor": 4577,
   "stepLength": 240,
   "visibleArea": {
     "from": 0,
-    "to": 15543.585657370484
+    "to": 15543.585657370502
   },
   "recording": true
 }
