@@ -612,12 +612,12 @@
         },
         "Delay": {
           "delayTime": 0.30000001192092896,
-          "delayFeed": 0.20000000298023224,
-          "delayMix": 0
+          "delayFeed": 0.30000001192092896,
+          "delayMix": 0.25
         },
         "self": {
           "waveType": "square",
-          "volume": 0.019999999552965164
+          "volume": 0.029999999329447746
         }
       }
     },
@@ -637,12 +637,12 @@
           "delay": 0,
           "attack": 0.1,
           "freq": 0,
-          "depth": 0
+          "depth": 24.8
         },
         "Delay": {
           "delayTime": 0.30000001192092896,
           "delayFeed": 0.20000000298023224,
-          "delayMix": 0
+          "delayMix": 0.30000001192092896
         },
         "self": {
           "waveType": "triangle",
@@ -657,9 +657,9 @@
       "instrumentId": "simple",
       "instrumentSettings": {
         "ADSR": {
-          "attackTime": 0.25,
-          "decayTime": 0.05,
-          "sustainLevel": 0,
+          "attackTime": 0.22,
+          "decayTime": 0.1,
+          "sustainLevel": 0.05,
           "releaseTime": 0.1
         },
         "Vibrato": {
@@ -669,9 +669,9 @@
           "depth": 0
         },
         "Delay": {
-          "delayTime": 0.30000001192092896,
-          "delayFeed": 0.20000000298023224,
-          "delayMix": 0
+          "delayTime": 0.3499999940395355,
+          "delayFeed": 0.3499999940395355,
+          "delayMix": 0.44999998807907104
         },
         "self": {
           "waveType": "sawtooth",
@@ -704,7 +704,7 @@
         },
         "self": {
           "waveType": "square",
-          "volume": 0.019999999552965164
+          "volume": 0.029999999329447746
         }
       }
     },
@@ -732,17 +732,17 @@
         },
         "self": {
           "waveType": "square",
-          "volume": 0.03500000014901161
+          "volume": 0.05000000074505806
         }
       }
     }
   ],
-  "focusedTrack": "_364qpswtp",
-  "cursor": 1200,
+  "focusedTrack": "_yjpud334f",
+  "cursor": 3600,
   "stepLength": 240,
   "visibleArea": {
     "from": 0,
-    "to": 15543.58565737052
+    "to": 15543.58565737051
   },
   "recording": true
 }
