@@ -1168,6 +1168,9 @@
               "attack": 0.1,
               "freq": 0,
               "depth": 0
+            },
+            "Amp": {
+              "amp": 1
             }
           }
         ],
@@ -1203,6 +1206,9 @@
               "attack": 0.1,
               "freq": 0,
               "depth": 0
+            },
+            "Amp": {
+              "amp": 1
             }
           }
         ],
@@ -1238,6 +1244,9 @@
               "attack": 0.1,
               "freq": 0,
               "depth": 0
+            },
+            "Amp": {
+              "amp": 1
             }
           }
         ],
@@ -1273,6 +1282,9 @@
               "attack": 0.2,
               "freq": 0.65,
               "depth": 0.05
+            },
+            "Amp": {
+              "amp": 1
             }
           }
         ],
@@ -1291,7 +1303,7 @@
       "color": "#92d",
       "instrumentId": "simple-drum",
       "instrumentSettings": {
-        "volume": 0.054999999701976776,
+        "volume": 0.07000000029802322,
         "sources": [
           {
             "WaveType": {
@@ -1307,6 +1319,9 @@
               "initialPitch": 401,
               "lastPitch": 40,
               "pitchDecay": 0.02
+            },
+            "Amp": {
+              "amp": 1
             }
           },
           {
@@ -1318,6 +1333,9 @@
             },
             "Noise": {
               "color": "white"
+            },
+            "Amp": {
+              "amp": 0.20000000298023224
             }
           }
         ],
@@ -1331,8 +1349,8 @@
       }
     }
   ],
-  "focusedTrack": "_gvdkidxyp",
-  "cursor": 24625,
+  "focusedTrack": "_123pvido2",
+  "cursor": 18320,
   "stepLength": 240,
   "visibleArea": {
     "from": 0,
