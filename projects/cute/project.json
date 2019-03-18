@@ -1151,7 +1151,7 @@
       "color": "#2d9",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "volume": 0.019999999552965164,
+        "volume": 0.02500000037252903,
         "sources": [
           {
             "WaveType": {
@@ -1174,8 +1174,8 @@
         "effects": [
           {
             "delayTime": 0.30000001192092896,
-            "delayFeed": 0.20000000298023224,
-            "delayMix": 0
+            "delayFeed": 0.10000000149011612,
+            "delayMix": 0.20000000298023224
           }
         ]
       }
@@ -1209,8 +1209,8 @@
         "effects": [
           {
             "delayTime": 0.30000001192092896,
-            "delayFeed": 0.20000000298023224,
-            "delayMix": 0
+            "delayFeed": 0.6000000238418579,
+            "delayMix": 0.15000000596046448
           }
         ]
       }
@@ -1243,9 +1243,9 @@
         ],
         "effects": [
           {
-            "delayTime": 0.30000001192092896,
-            "delayFeed": 0.20000000298023224,
-            "delayMix": 0
+            "delayTime": 0.44999998807907104,
+            "delayFeed": 0.3499999940395355,
+            "delayMix": 0.30000001192092896
           }
         ]
       }
@@ -1331,12 +1331,12 @@
       }
     }
   ],
-  "focusedTrack": "_123pvido2",
-  "cursor": 4320,
+  "focusedTrack": "_gvdkidxyp",
+  "cursor": 24625,
   "stepLength": 240,
   "visibleArea": {
     "from": 0,
     "to": 31901.82465108118
   },
-  "recording": true
+  "recording": false
 }
