@@ -1118,7 +1118,7 @@
     {
       "id": "_cbus4in1p",
       "trackId": "_23c88dxvj",
-      "note": 62,
+      "note": 60,
       "position": 15120,
       "length": 240
     },
@@ -1151,27 +1151,33 @@
       "color": "#2d9",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "ADSR": {
-          "attackTime": 0.01,
-          "decayTime": 0.1,
-          "sustainLevel": 0.05,
-          "releaseTime": 0.1
-        },
-        "Vibrato": {
-          "delay": 0,
-          "attack": 0.1,
-          "freq": 0,
-          "depth": 0
-        },
-        "Delay": {
-          "delayTime": 0.30000001192092896,
-          "delayFeed": 0.30000001192092896,
-          "delayMix": 0.25
-        },
-        "self": {
-          "waveType": "square",
-          "volume": 0.02500000037252903
-        }
+        "volume": 0.019999999552965164,
+        "sources": [
+          {
+            "WaveType": {
+              "waveType": "square"
+            },
+            "ADSR": {
+              "attackTime": 0.01,
+              "decayTime": 0.15,
+              "sustainLevel": 0.1,
+              "releaseTime": 0.1
+            },
+            "Vibrato": {
+              "delay": 0,
+              "attack": 0.1,
+              "freq": 0,
+              "depth": 0
+            }
+          }
+        ],
+        "effects": [
+          {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        ]
       }
     },
     {
@@ -1180,27 +1186,33 @@
       "color": "#29d",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "ADSR": {
-          "attackTime": 0.01,
-          "decayTime": 0.1,
-          "sustainLevel": 0.7,
-          "releaseTime": 0.1
-        },
-        "Vibrato": {
-          "delay": 0,
-          "attack": 0.1,
-          "freq": 0,
-          "depth": 24.8
-        },
-        "Delay": {
-          "delayTime": 0.30000001192092896,
-          "delayFeed": 0.20000000298023224,
-          "delayMix": 0.30000001192092896
-        },
-        "self": {
-          "waveType": "triangle",
-          "volume": 0.02500000037252903
-        }
+        "volume": 0.029999999329447746,
+        "sources": [
+          {
+            "WaveType": {
+              "waveType": "triangle"
+            },
+            "ADSR": {
+              "attackTime": 0.01,
+              "decayTime": 0.1,
+              "sustainLevel": 0.7,
+              "releaseTime": 0.1
+            },
+            "Vibrato": {
+              "delay": 0,
+              "attack": 0.1,
+              "freq": 0,
+              "depth": 0
+            }
+          }
+        ],
+        "effects": [
+          {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        ]
       }
     },
     {
@@ -1209,27 +1221,33 @@
       "color": "#9d2",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "ADSR": {
-          "attackTime": 0.22,
-          "decayTime": 0.1,
-          "sustainLevel": 0.05,
-          "releaseTime": 0.1
-        },
-        "Vibrato": {
-          "delay": 0,
-          "attack": 0.1,
-          "freq": 0,
-          "depth": 0
-        },
-        "Delay": {
-          "delayTime": 0.3499999940395355,
-          "delayFeed": 0.25,
-          "delayMix": 0.30000001192092896
-        },
-        "self": {
-          "waveType": "sawtooth",
-          "volume": 0.014999999664723873
-        }
+        "volume": 0.019999999552965164,
+        "sources": [
+          {
+            "WaveType": {
+              "waveType": "triangle"
+            },
+            "ADSR": {
+              "attackTime": 0.13,
+              "decayTime": 0.1,
+              "sustainLevel": 0.7,
+              "releaseTime": 0.1
+            },
+            "Vibrato": {
+              "delay": 0,
+              "attack": 0.1,
+              "freq": 0,
+              "depth": 0
+            }
+          }
+        ],
+        "effects": [
+          {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        ]
       }
     },
     {
@@ -1238,27 +1256,33 @@
       "color": "#d29",
       "instrumentId": "simple",
       "instrumentSettings": {
-        "ADSR": {
-          "attackTime": 0.01,
-          "decayTime": 0.1,
-          "sustainLevel": 0.7,
-          "releaseTime": 0.1
-        },
-        "Vibrato": {
-          "delay": 0,
-          "attack": 0.1,
-          "freq": 0,
-          "depth": 0
-        },
-        "Delay": {
-          "delayTime": 0.30000001192092896,
-          "delayFeed": 0.20000000298023224,
-          "delayMix": 0
-        },
-        "self": {
-          "waveType": "square",
-          "volume": 0.02500000037252903
-        }
+        "volume": 0.03500000014901161,
+        "sources": [
+          {
+            "WaveType": {
+              "waveType": "sawtooth"
+            },
+            "ADSR": {
+              "attackTime": 0.01,
+              "decayTime": 0.1,
+              "sustainLevel": 0.7,
+              "releaseTime": 0.05
+            },
+            "Vibrato": {
+              "delay": 0,
+              "attack": 0.2,
+              "freq": 0.65,
+              "depth": 0.05
+            }
+          }
+        ],
+        "effects": [
+          {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        ]
       }
     },
     {
@@ -1267,35 +1291,52 @@
       "color": "#92d",
       "instrumentId": "simple-drum",
       "instrumentSettings": {
-        "ADSR": {
-          "attackTime": 0,
-          "decayTime": 0.1,
-          "sustainLevel": 0,
-          "releaseTime": 0
-        },
-        "Pitch": {
-          "initialPitch": 346,
-          "lastPitch": 54,
-          "pitchDecay": 0.04
-        },
-        "Delay": {
-          "delayTime": 0.30000001192092896,
-          "delayFeed": 0.20000000298023224,
-          "delayMix": 0
-        },
-        "self": {
-          "waveType": "triangle",
-          "volume": 0.05999999865889549
-        }
+        "volume": 0.054999999701976776,
+        "sources": [
+          {
+            "WaveType": {
+              "waveType": "triangle"
+            },
+            "ADSR": {
+              "attackTime": 0.01,
+              "decayTime": 0.1,
+              "sustainLevel": 0.7,
+              "releaseTime": 0.1
+            },
+            "Pitch": {
+              "initialPitch": 401,
+              "lastPitch": 40,
+              "pitchDecay": 0.02
+            }
+          },
+          {
+            "ADSR": {
+              "attackTime": 0.01,
+              "decayTime": 0.05,
+              "sustainLevel": 0,
+              "releaseTime": 0
+            },
+            "Noise": {
+              "color": "white"
+            }
+          }
+        ],
+        "effects": [
+          {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        ]
       }
     }
   ],
-  "focusedTrack": "_364qpswtp",
-  "cursor": 4577,
+  "focusedTrack": "_123pvido2",
+  "cursor": 4320,
   "stepLength": 240,
   "visibleArea": {
     "from": 0,
-    "to": 15543.585657370502
+    "to": 31901.82465108118
   },
   "recording": true
 }
