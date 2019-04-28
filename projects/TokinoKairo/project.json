@@ -3274,7 +3274,7 @@
     {
       "id": "_85dx6vnvn",
       "trackId": "_0ckm6cga4",
-      "note": 71,
+      "note": 69,
       "position": 73440,
       "length": 240
     },
@@ -3302,7 +3302,7 @@
     {
       "id": "_a4c6trmoj",
       "trackId": "_0ckm6cga4",
-      "note": 71,
+      "note": 69,
       "position": 74400,
       "length": 240
     },
@@ -3330,7 +3330,7 @@
     {
       "id": "_p4rejqkh1",
       "trackId": "_0ckm6cga4",
-      "note": 71,
+      "note": 69,
       "position": 75360,
       "length": 240
     },
@@ -3358,7 +3358,7 @@
     {
       "id": "_55ul7zww8",
       "trackId": "_0ckm6cga4",
-      "note": 71,
+      "note": 69,
       "position": 76320,
       "length": 240
     },
@@ -5849,6 +5849,7 @@
       "instrument": {
         "id": "simple",
         "settings": {
+          "drum": false,
           "ranges": [
             {
               "rangeName": "All",
@@ -5912,6 +5913,7 @@
       "instrument": {
         "id": "simple",
         "settings": {
+          "drum": false,
           "ranges": [
             {
               "rangeName": "All",
@@ -5985,6 +5987,7 @@
       "instrument": {
         "id": "simple",
         "settings": {
+          "drum": false,
           "ranges": [
             {
               "rangeName": "All",
@@ -6091,6 +6094,7 @@
       "instrument": {
         "id": "simple",
         "settings": {
+          "drum": false,
           "ranges": [
             {
               "rangeName": "All",
@@ -6160,6 +6164,7 @@
       "instrument": {
         "id": "simple",
         "settings": {
+          "drum": true,
           "ranges": [
             {
               "rangeName": "Kick",
@@ -6325,12 +6330,12 @@
       "volume": 0.07900000363588333
     }
   ],
-  "focusedTrack": "_pgsypcvd6",
-  "cursor": 49772,
+  "focusedTrack": "_0ckm6cga4",
+  "cursor": 78341,
   "stepLength": 240,
   "visibleArea": {
-    "from": 46044.39018132856,
-    "to": 70656.09238203974
+    "from": 55145.59524346847,
+    "to": 88640.58370724891
   },
   "recording": true
 }
