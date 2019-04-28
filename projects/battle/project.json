@@ -5034,93 +5034,400 @@
       "id": "_6sv695ooo",
       "name": "Track 1",
       "color": "#2d9",
-      "instrumentId": "simple",
-      "instrumentSettings": {
-        "waveType": "square",
-        "attackTime": 0.02,
-        "decayTime": 0.1,
-        "sustainLevel": 0.6,
-        "releaseTime": 0.05,
-        "vibratoDelay": 0,
-        "vibratoAttack": 0.1,
-        "vibratoFreq": 0,
-        "vibratoDepth": 0,
-        "delayTime": 0.30000001192092896,
-        "delayFeed": 0.20000000298023224,
-        "delayMix": 0.05000000074505806,
-        "volume": 0.019999999552965164
-      }
+      "instrument": {
+        "id": "simple",
+        "settings": {
+          "drum": false,
+          "ranges": [
+            {
+              "rangeName": "All",
+              "minNote": 29,
+              "maxNote": 109,
+              "sources": [
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "WaveType": {
+                        "waveType": "sawtooth"
+                      },
+                      "ADSR": {
+                        "attackTime": 0.044,
+                        "decayTime": 0.149,
+                        "sustainLevel": 0.228,
+                        "releaseTime": 0.03
+                      },
+                      "FM": null,
+                      "Vibrato": {
+                        "delay": 0,
+                        "attack": 0.05,
+                        "freq": 0.999,
+                        "depth": 1
+                      }
+                    }
+                  },
+                  "effects": [
+                    {
+                      "id": "TouchFilter",
+                      "settings": {
+                        "initialFrequency": 898,
+                        "lastFrequency": 209,
+                        "decay": 0.278,
+                        "resonance": 0
+                      }
+                    }
+                  ],
+                  "amp": {
+                    "amp": 0.6000000238418579
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "solo": false,
+      "mute": false,
+      "effects": [
+        {
+          "id": "DelayExtNode",
+          "settings": {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        }
+      ],
+      "volume": 0.0430000014603138
     },
     {
       "id": "_y2iqkq6pu",
       "name": "Track 2",
       "color": "#29d",
-      "instrumentId": "simple",
-      "instrumentSettings": {
-        "waveType": "square",
-        "attackTime": 0,
-        "decayTime": 0.1,
-        "sustainLevel": 0.7,
-        "releaseTime": 0.05,
-        "vibratoDelay": 0.6,
-        "vibratoAttack": 0.2,
-        "vibratoFreq": 2.95,
-        "vibratoDepth": 3.7,
-        "delayTime": 0.10000000149011612,
-        "delayFeed": 0.20000000298023224,
-        "delayMix": 0.30000001192092896,
-        "volume": 0.019999999552965164
-      }
+      "instrument": {
+        "id": "simple",
+        "settings": {
+          "drum": false,
+          "ranges": [
+            {
+              "rangeName": "All",
+              "minNote": 29,
+              "maxNote": 109,
+              "sources": [
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "WaveType": {
+                        "waveType": "sawtooth"
+                      },
+                      "ADSR": {
+                        "attackTime": 0.034,
+                        "decayTime": 0.249,
+                        "sustainLevel": 0.55,
+                        "releaseTime": 0.1
+                      },
+                      "FM": null,
+                      "Vibrato": {
+                        "delay": 0.37,
+                        "attack": 0.27,
+                        "freq": 4.1,
+                        "depth": 2
+                      }
+                    }
+                  },
+                  "effects": [
+                    {
+                      "id": "TouchFilter",
+                      "settings": {
+                        "initialFrequency": 3798,
+                        "lastFrequency": 2399,
+                        "decay": 0.089,
+                        "resonance": 0.239
+                      }
+                    }
+                  ],
+                  "amp": {
+                    "amp": 0.7160000205039978
+                  }
+                },
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "WaveType": {
+                        "waveType": "sawtooth"
+                      },
+                      "ADSR": {
+                        "attackTime": 0.35,
+                        "decayTime": 0.36,
+                        "sustainLevel": 0,
+                        "releaseTime": 0.02
+                      },
+                      "FM": null,
+                      "Vibrato": {
+                        "delay": 0,
+                        "attack": 0.1,
+                        "freq": 0,
+                        "depth": 0
+                      }
+                    }
+                  },
+                  "effects": [
+                    {
+                      "id": "TouchFilter",
+                      "settings": {
+                        "initialFrequency": 1399,
+                        "lastFrequency": 6596,
+                        "decay": 0.1,
+                        "resonance": -6
+                      }
+                    }
+                  ],
+                  "amp": {
+                    "amp": 0.4790000021457672
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "solo": false,
+      "mute": false,
+      "effects": [
+        {
+          "id": "DelayExtNode",
+          "settings": {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        }
+      ],
+      "volume": 0.008999999612569809
     },
     {
       "id": "_v6890onu9",
       "name": "Track 3",
       "color": "#9d2",
-      "instrumentId": "simple",
-      "instrumentSettings": {
-        "waveType": "sawtooth",
-        "attackTime": 0.01,
-        "decayTime": 0.1,
-        "sustainLevel": 0.7,
-        "releaseTime": 0.05,
-        "vibratoDelay": 0,
-        "vibratoAttack": 0.1,
-        "vibratoFreq": 0,
-        "vibratoDepth": 0,
-        "delayTime": 0.10000000149011612,
-        "delayFeed": 0.30000001192092896,
-        "delayMix": 0.20000000298023224,
-        "volume": 0.019999999552965164
-      }
+      "instrument": {
+        "id": "simple",
+        "settings": {
+          "drum": false,
+          "ranges": [
+            {
+              "rangeName": "All",
+              "minNote": 29,
+              "maxNote": 109,
+              "sources": [
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "WaveType": {
+                        "waveType": "sawtooth"
+                      },
+                      "ADSR": {
+                        "attackTime": 0.14500000000000002,
+                        "decayTime": 0.249,
+                        "sustainLevel": 0.55,
+                        "releaseTime": 0.14900000000000002
+                      },
+                      "FM": null,
+                      "Vibrato": {
+                        "delay": 0.75,
+                        "attack": 0.27,
+                        "freq": 4.1,
+                        "depth": 5
+                      }
+                    }
+                  },
+                  "effects": [
+                    {
+                      "id": "TouchFilter",
+                      "settings": {
+                        "initialFrequency": 9195,
+                        "lastFrequency": 5000,
+                        "decay": 0.089,
+                        "resonance": -2.64
+                      }
+                    }
+                  ],
+                  "amp": {
+                    "amp": 0.25999999046325684
+                  }
+                },
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "WaveType": {
+                        "waveType": "sawtooth"
+                      },
+                      "ADSR": {
+                        "attackTime": 0.12000000000000004,
+                        "decayTime": 0.91,
+                        "sustainLevel": 0.34,
+                        "releaseTime": 0.13
+                      },
+                      "FM": null,
+                      "Vibrato": {
+                        "delay": 0.38,
+                        "attack": 0.1,
+                        "freq": 1.7,
+                        "depth": 3
+                      }
+                    }
+                  },
+                  "effects": [
+                    {
+                      "id": "TouchFilter",
+                      "settings": {
+                        "initialFrequency": 7595,
+                        "lastFrequency": 4500,
+                        "decay": 0.1,
+                        "resonance": -6
+                      }
+                    }
+                  ],
+                  "amp": {
+                    "amp": 0.2980000078678131
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "solo": false,
+      "mute": false,
+      "effects": [
+        {
+          "id": "DelayExtNode",
+          "settings": {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        }
+      ],
+      "volume": 0.03199999779462814
     },
     {
       "id": "_wur0tcd4x",
       "name": "Track 4",
       "color": "#d29",
-      "instrumentId": "simple",
-      "instrumentSettings": {
-        "waveType": "square",
-        "attackTime": 0.06,
-        "decayTime": 0.1,
-        "sustainLevel": 0.7,
-        "releaseTime": 0.15,
-        "vibratoDelay": 0.25,
-        "vibratoAttack": 0.4,
-        "vibratoFreq": 3.9,
-        "vibratoDepth": 1.85,
-        "delayTime": 0.10000000149011612,
-        "delayFeed": 0.20000000298023224,
-        "delayMix": 0.10000000149011612,
-        "volume": 0.014999999664723873
-      }
+      "instrument": {
+        "id": "simple",
+        "settings": {
+          "drum": false,
+          "ranges": [
+            {
+              "rangeName": "All",
+              "minNote": 29,
+              "maxNote": 109,
+              "sources": [
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "WaveType": {
+                        "waveType": "sawtooth"
+                      },
+                      "ADSR": {
+                        "attackTime": 0.034,
+                        "decayTime": 0.249,
+                        "sustainLevel": 0.55,
+                        "releaseTime": 0.1
+                      },
+                      "FM": null,
+                      "Vibrato": {
+                        "delay": 0.37,
+                        "attack": 0.27,
+                        "freq": 4.1,
+                        "depth": 2
+                      }
+                    }
+                  },
+                  "effects": [
+                    {
+                      "id": "TouchFilter",
+                      "settings": {
+                        "initialFrequency": 3798,
+                        "lastFrequency": 2399,
+                        "decay": 0.089,
+                        "resonance": 0.239
+                      }
+                    }
+                  ],
+                  "amp": {
+                    "amp": 0.7160000205039978
+                  }
+                },
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "WaveType": {
+                        "waveType": "sawtooth"
+                      },
+                      "ADSR": {
+                        "attackTime": 0.35,
+                        "decayTime": 0.36,
+                        "sustainLevel": 0,
+                        "releaseTime": 0.02
+                      },
+                      "FM": null,
+                      "Vibrato": {
+                        "delay": 0,
+                        "attack": 0.1,
+                        "freq": 0,
+                        "depth": 0
+                      }
+                    }
+                  },
+                  "effects": [
+                    {
+                      "id": "TouchFilter",
+                      "settings": {
+                        "initialFrequency": 1399,
+                        "lastFrequency": 6596,
+                        "decay": 0.1,
+                        "resonance": -6
+                      }
+                    }
+                  ],
+                  "amp": {
+                    "amp": 0.4790000021457672
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "solo": false,
+      "mute": false,
+      "effects": [
+        {
+          "id": "DelayExtNode",
+          "settings": {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        }
+      ],
+      "volume": 0.011999999172985554
     }
   ],
-  "focusedTrack": "_v6890onu9",
-  "cursor": 43094,
+  "focusedTrack": "_wur0tcd4x",
+  "cursor": 57779,
   "stepLength": 480,
   "visibleArea": {
-    "from": 23214.775252473948,
-    "to": 46429.550504947896
+    "from": 46429.550504947896,
+    "to": 69644.32575742184
   },
   "recording": false
 }
