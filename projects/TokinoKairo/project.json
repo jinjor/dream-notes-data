@@ -5430,7 +5430,7 @@
     {
       "id": "_4ylvsprjj",
       "trackId": "_pgsypcvd6",
-      "note": 65,
+      "note": 64,
       "position": 27360,
       "length": 120
     },
@@ -5451,7 +5451,7 @@
     {
       "id": "_8m4amxfx4",
       "trackId": "_pgsypcvd6",
-      "note": 65,
+      "note": 64,
       "position": 28080,
       "length": 120
     },
@@ -5465,7 +5465,7 @@
     {
       "id": "_iqa7jakc2",
       "trackId": "_pgsypcvd6",
-      "note": 65,
+      "note": 64,
       "position": 29280,
       "length": 120
     },
@@ -5493,7 +5493,7 @@
     {
       "id": "_h4em0zgij",
       "trackId": "_pgsypcvd6",
-      "note": 65,
+      "note": 64,
       "position": 30000,
       "length": 120
     },
@@ -6326,11 +6326,11 @@
     }
   ],
   "focusedTrack": "_pgsypcvd6",
-  "cursor": 8359,
+  "cursor": 49772,
   "stepLength": 240,
   "visibleArea": {
-    "from": 0,
-    "to": 48250
+    "from": 46044.39018132856,
+    "to": 70656.09238203974
   },
   "recording": true
 }
