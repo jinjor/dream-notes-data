@@ -1,0 +1,276 @@
+{
+  "id": "_5niuqqyho",
+  "tempo": 120,
+  "notes": [
+    {
+      "id": "_bgjy9blp6",
+      "trackId": "_aztxcrinh",
+      "note": 60,
+      "position": 1920,
+      "length": 5760
+    },
+    {
+      "id": "_p5if8ca5d",
+      "trackId": "_aztxcrinh",
+      "note": 60,
+      "position": 17280,
+      "length": 5760
+    },
+    {
+      "id": "_xrdqibvta",
+      "trackId": "_aztxcrinh",
+      "note": 60,
+      "position": 32640,
+      "length": 5760
+    },
+    {
+      "id": "_ca63zdsfq",
+      "trackId": "_aztxcrinh",
+      "note": 60,
+      "position": 48000,
+      "length": 5760
+    },
+    {
+      "id": "_5itsyf5up",
+      "trackId": "_aztxcrinh",
+      "note": 60,
+      "position": 63360,
+      "length": 5760
+    },
+    {
+      "id": "_evtr9lyv3",
+      "trackId": "_aztxcrinh",
+      "note": 60,
+      "position": 78720,
+      "length": 5760
+    },
+    {
+      "id": "_s303rsg99",
+      "trackId": "_aztxcrinh",
+      "note": 60,
+      "position": 94080,
+      "length": 5760
+    },
+    {
+      "id": "_a9qtxuu4r",
+      "trackId": "_aztxcrinh",
+      "note": 60,
+      "position": 109440,
+      "length": 5760
+    }
+  ],
+  "tracks": [
+    {
+      "id": "_aztxcrinh",
+      "name": "Track 1",
+      "color": "#2d9",
+      "instrument": {
+        "id": "simple",
+        "settings": {
+          "drum": false,
+          "ranges": [
+            {
+              "rangeName": "All",
+              "minNote": 29,
+              "maxNote": 109,
+              "sources": [
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "VCO": {
+                        "waveType": "sine",
+                        "octave": -1
+                      },
+                      "ADSR": {
+                        "attackTime": 0.001,
+                        "decayTime": 0.619,
+                        "sustainLevel": 0,
+                        "releaseTime": 0.1
+                      },
+                      "FM": {
+                        "waveType": "triangle",
+                        "freqRatio": 0.667,
+                        "amp": 345
+                      },
+                      "Vibrato": {
+                        "delay": 0.24,
+                        "attack": 0.27,
+                        "freq": 0.599,
+                        "depth": 7
+                      }
+                    }
+                  },
+                  "effects": [],
+                  "amp": {
+                    "amp": 0.7170000076293945
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "solo": false,
+      "mute": false,
+      "effects": [
+        {
+          "id": "DelayExtNode",
+          "settings": {
+            "delayTime": 0.9300000071525574,
+            "delayFeed": 0.4200000762939453,
+            "delayMix": 0.16999998688697815
+          }
+        }
+      ],
+      "volume": 0.061000000685453415
+    },
+    {
+      "id": "_ipfrylnz7",
+      "name": "Track 2",
+      "color": "#29d",
+      "instrument": {
+        "id": "simple",
+        "settings": {
+          "drum": false,
+          "ranges": [
+            {
+              "rangeName": "All",
+              "minNote": 29,
+              "maxNote": 109,
+              "sources": [
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "VCO": {
+                        "waveType": "sine",
+                        "octave": 0
+                      },
+                      "ADSR": {
+                        "attackTime": 0.01,
+                        "decayTime": 0.549,
+                        "sustainLevel": 1,
+                        "releaseTime": 0.1
+                      },
+                      "FM": null,
+                      "Vibrato": {
+                        "delay": 0.01,
+                        "attack": 0.25,
+                        "freq": 4.5,
+                        "depth": 2
+                      }
+                    }
+                  },
+                  "effects": [],
+                  "amp": {
+                    "amp": 0.4000000059604645
+                  }
+                },
+                {
+                  "osc": {
+                    "id": "NormalOSC",
+                    "settings": {
+                      "VCO": {
+                        "waveType": "sine",
+                        "octave": 2
+                      },
+                      "ADSR": {
+                        "attackTime": 0.01,
+                        "decayTime": 0.549,
+                        "sustainLevel": 1,
+                        "releaseTime": 0.1
+                      },
+                      "FM": null,
+                      "Vibrato": {
+                        "delay": 0.01,
+                        "attack": 0.25,
+                        "freq": 4.5,
+                        "depth": 3
+                      }
+                    }
+                  },
+                  "effects": [],
+                  "amp": {
+                    "amp": 0.4000000059604645
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "solo": false,
+      "mute": false,
+      "effects": [
+        {
+          "id": "DelayExtNode",
+          "settings": {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        }
+      ],
+      "volume": 0.019999999552965164
+    },
+    {
+      "id": "_tvd5pszyw",
+      "name": "Track 3",
+      "color": "#9d2",
+      "instrument": {
+        "id": "simple",
+        "settings": {
+          "drum": false,
+          "ranges": []
+        }
+      },
+      "solo": false,
+      "mute": false,
+      "effects": [
+        {
+          "id": "DelayExtNode",
+          "settings": {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        }
+      ],
+      "volume": 0.019999999552965164
+    },
+    {
+      "id": "_9afmgt04f",
+      "name": "Track 4",
+      "color": "#d29",
+      "instrument": {
+        "id": "simple",
+        "settings": {
+          "drum": false,
+          "ranges": []
+        }
+      },
+      "solo": false,
+      "mute": false,
+      "effects": [
+        {
+          "id": "DelayExtNode",
+          "settings": {
+            "delayTime": 0.30000001192092896,
+            "delayFeed": 0.20000000298023224,
+            "delayMix": 0
+          }
+        }
+      ],
+      "volume": 0.019999999552965164
+    }
+  ],
+  "focusedTrack": "_aztxcrinh",
+  "cursor": 23040,
+  "stepLength": 1920,
+  "visibleArea": {
+    "from": 0,
+    "to": 51200
+  },
+  "recording": true
+}
