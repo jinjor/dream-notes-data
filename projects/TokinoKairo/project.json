@@ -1,5 +1,4 @@
 {
-  "id": "_5i0xd7kva",
   "tempo": 110,
   "notes": [
     {
@@ -7,5838 +6,6672 @@
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 0,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_n91zcohsx",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ie7frv09e",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_x8wvirptg",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_97h5hwawh",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bsewgjidd",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 1200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wxm5n425f",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 1440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_fu1korqi4",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 1680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_8f694rx3c",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 1920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_aqofmhrju",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 2160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bc3kre863",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 2400,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_v3cfbvsym",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 2640,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_4z70gy49w",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 2880,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_tml5p2rl7",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 3120,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_vzcgyxk7k",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 3360,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_59jmh9mzg",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 3600,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_dvv02j25p",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 4800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_lmd1587fl",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 4320,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_kp6itn28r",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 4560,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_h2xpz5m5s",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 5280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6n6h8p59w",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 5520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_iyagg68tg",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 5760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_d4qvs73bg",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 4080,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_sydy8f2qp",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 5040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wljejb8r0",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 6000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_na3lygjq0",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 6240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_3g4kuplbs",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 3840,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_f41bdfwmd",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 6480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_dgmohivhn",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 6720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_j8bhou6j5",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 6960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2j3sixfo4",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 7200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_898i2ox0d",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 7440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_cfsh4rhvn",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 8640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0m9nj71uz",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 9600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2bmlhni91",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 10560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ekncazsk5",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 12480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_4t13om34p",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 13440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_mrjvc7qky",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 14400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ufsnxxqgg",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 8400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_g30cdfr94",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 9360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_rbtley8nn",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 10320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_8lnmqnwn7",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 11280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6hwaag300",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 12240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_xrinrixnt",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 13200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_1a3m3zw02",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 14160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_f5hr4twu5",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 15120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_tp9o8wmo6",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 8160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_khqfpsrfd",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 9120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_zijw64rvt",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 10080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_gcngzlcmg",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 11040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_42cko1jha",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 12000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_txn3i9enq",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 12960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_1gbrmgi8x",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 13920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_awvcn9191",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 14880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_90eslnrg2",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 7920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_zcqrutvvp",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 8880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_xkhy9grgi",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 9840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2ii6bidhe",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 10800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_et0aek9df",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 11760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_7kdq6tg44",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 12720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ku3l6rcng",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 13680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ffvtfmqyb",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 14640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_m8wxj879q",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 7680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_vdrss5y8a",
       "trackId": "_0ckm6cga4",
       "note": 61,
       "position": 11520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_zq779bn9l",
       "trackId": "_cvntna65n",
       "note": 93,
       "position": 7680,
-      "length": 60
+      "length": 60,
+      "velocity": 127
     },
     {
       "id": "_wlc4mftfy",
       "trackId": "_cvntna65n",
       "note": 92,
       "position": 7740,
-      "length": 60
+      "length": 60,
+      "velocity": 127
     },
     {
       "id": "_3o4lqkibi",
       "trackId": "_cvntna65n",
       "note": 90,
       "position": 7800,
-      "length": 60
+      "length": 60,
+      "velocity": 127
     },
     {
       "id": "_97i84avqn",
       "trackId": "_cvntna65n",
       "note": 86,
       "position": 7860,
-      "length": 60
+      "length": 60,
+      "velocity": 127
     },
     {
       "id": "_pgzpkusqa",
       "trackId": "_cvntna65n",
       "note": 81,
       "position": 7920,
-      "length": 60
+      "length": 60,
+      "velocity": 127
     },
     {
       "id": "_9om4puies",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 7980,
-      "length": 60
+      "length": 60,
+      "velocity": 127
     },
     {
       "id": "_pa8ekdaif",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 8040,
-      "length": 60
+      "length": 60,
+      "velocity": 127
     },
     {
       "id": "_vi95sfv3i",
       "trackId": "_cvntna65n",
       "note": 74,
       "position": 8100,
-      "length": 60
+      "length": 60,
+      "velocity": 127
     },
     {
       "id": "_7pepb5oob",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 8400,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_golu2ge6k",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 8880,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_h9eaawru6",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 9360,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_cdmt3cmuw",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 10800,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_7wo7nf213",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 11280,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_do23znhhp",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 12720,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_o36v361qj",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 13200,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_f5xwbf18x",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 14640,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_ndp8yeoi2",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 15120,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_37aphta2n",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 16560,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_rjx3dv76j",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 18480,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_isfkqgwvg",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 17040,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_97zopbc42",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 18960,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_hp0uurnwp",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 16320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_kx4lsc4xc",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 16080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_31bc71lj3",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 15840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ve8gxm3ri",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 16800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_uldn036mx",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 17040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_uysiaq4ow",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 15600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_kjpuuvowf",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 16560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_qeoy4m3bs",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 17280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hnz81jn63",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 15360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_r1t80y5n2",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 17520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_s6rosamz7",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 17760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bpt5egnfp",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 18000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_7a1sgf4d3",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 18240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6vc4rrufb",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 18480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_jmyyc2fww",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 18720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hhcvbqonc",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 18960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_xu0ao93z8",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 20160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_440l0ouji",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 19920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_i516yrpkt",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 19680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_em6ce2u6w",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 20640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_h0g8kylcn",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 20880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_24xt7y6fc",
       "trackId": "_0ckm6cga4",
       "note": 68,
       "position": 19440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_35hrnxvux",
       "trackId": "_0ckm6cga4",
       "note": 68,
       "position": 20400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_y1o6qz5sv",
       "trackId": "_0ckm6cga4",
       "note": 75,
       "position": 21120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_v2vys2drx",
       "trackId": "_0ckm6cga4",
       "note": 61,
       "position": 19200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_a88tmj2wi",
       "trackId": "_0ckm6cga4",
       "note": 68,
       "position": 21360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0h3sq1dud",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 21600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_kngoqwwe7",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 21840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_anzophyxi",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 22080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_i7znpl00n",
       "trackId": "_0ckm6cga4",
       "note": 68,
       "position": 22320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2opdgyu3g",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 22560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_8adyy3rxj",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 22800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0kp8ndfm1",
       "trackId": "_dbi1mz80u",
       "note": 44,
       "position": 20400,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_psbdlq6gf",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 20880,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_tqa5l1rv3",
       "trackId": "_dbi1mz80u",
       "note": 44,
       "position": 22320,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_f2ga7qqzk",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 22800,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_tz8jebdz5",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 24000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_nqavzb0kx",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 23760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_7za31p83z",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 24720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_elq70g04m",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 24960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_fiu6gin17",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 23520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_sl77iqn5k",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 24480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6miwxgujt",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 25440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bwe4chmta",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 25680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_objkdjsu0",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 25920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_xdgj548wf",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 26400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_633ni1qc0",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 26640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_18m1tl3nt",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 27360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hyvfa3fd1",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 27840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_fdmoct8t8",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 27600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_96k1xnx6r",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 28320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_xk4uk9dt1",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 28560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_gvjbyo8da",
       "trackId": "_0ckm6cga4",
       "note": 68,
       "position": 27120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_uusblxfna",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 28080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hur0x7x3o",
       "trackId": "_0ckm6cga4",
       "note": 80,
       "position": 28800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_9r2gu30m1",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 29040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_12vuodt4f",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 29280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6e4ac50kk",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 23280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_am16kpo3z",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 24240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_e7nfxgi65",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 25200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_yh296n7y1",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 26160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_4beiu7nzs",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 29520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2bj721auc",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 29760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_yzkvhdga9",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 30000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_tawq6c0nh",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 23040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_dtg63jeza",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 30240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wn41m1lnc",
       "trackId": "_0ckm6cga4",
       "note": 61,
       "position": 26880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_do21xaq34",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 30480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_qjxw7s9td",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 24720,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_xqrl0718k",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 26640,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_dsjilqe8u",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 24240,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_3l4iohgdm",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 26160,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_9bhkj46zn",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 28080,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_b796s9mgu",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 28560,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_vuu4nfjuq",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 30000,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_tww90402k",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 30480,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_xjsdnrfkd",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 31680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_69l31qx2z",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 31440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_af50zvcox",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 32400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_scz87doco",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 31200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2wogivkuj",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 32160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_nlc8a3f6j",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 32640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6veo871f8",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 33120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ak1j07zcp",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 33360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_uibk8lzh1",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 33600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_t2a2mvlyi",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 34080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0fseh3o5y",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 34320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_sl2jtkydx",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 30960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_gxcf9q7o2",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 31920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2quu27zy2",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 32880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_pdbbizfw7",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 33840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_9gmclp72m",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 35040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_z07q34tlc",
       "trackId": "_0ckm6cga4",
       "note": 68,
       "position": 34800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_j3whc0xi9",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 35280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_zojua8hdt",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 35520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_n33u4c1nt",
       "trackId": "_0ckm6cga4",
       "note": 68,
       "position": 35760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ha6ba9oe7",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 36000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_zs71ye392",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 36240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_7zjevpdwx",
       "trackId": "_0ckm6cga4",
       "note": 75,
       "position": 36480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_5avt3jjbo",
       "trackId": "_0ckm6cga4",
       "note": 68,
       "position": 36720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_a0yxvf18y",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 36960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_gsve4nry0",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 30720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ud7n879b5",
       "trackId": "_0ckm6cga4",
       "note": 61,
       "position": 34560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_04h1laolf",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 37200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_f8l04e3d8",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 37440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_j0my22dzc",
       "trackId": "_0ckm6cga4",
       "note": 68,
       "position": 37680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_h5qaq0oxa",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 37920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bjpt4w235",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 38160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2kjl3xkga",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 31920,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_vih1nxktg",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 32400,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_jgdba6xxc",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 33840,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_8cx6b9vx8",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 34320,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_naps7in5i",
       "trackId": "_dbi1mz80u",
       "note": 44,
       "position": 35760,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_46nrrie5t",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 36240,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_2nt22fazx",
       "trackId": "_dbi1mz80u",
       "note": 44,
       "position": 37680,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_qwi8pnohn",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 38160,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ty3rs0oxy",
       "trackId": "_cvntna65n",
       "note": 73,
       "position": 15120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_8ju50ej7n",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 15360,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_5tvkxn7o9",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 15720,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_5ordt83fb",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 16080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ktowk72ex",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 16320,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_utnshyuw7",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 18000,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ob6y8gcra",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 18120,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_m2xlk5tr1",
       "trackId": "_cvntna65n",
       "note": 81,
       "position": 18240,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_62l81vk39",
       "trackId": "_cvntna65n",
       "note": 83,
       "position": 18600,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_x16g128j2",
       "trackId": "_cvntna65n",
       "note": 81,
       "position": 18960,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_xemurd2p1",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 19080,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_1fml1tqgc",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 19200,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_z30o2cq16",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 19560,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_o4okuikff",
       "trackId": "_cvntna65n",
       "note": 76,
       "position": 19920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_x2v6o1z3i",
       "trackId": "_cvntna65n",
       "note": 76,
       "position": 20160,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_as1nbf992",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 23040,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_lr9m5vo0n",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 23400,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_fa7784xh8",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 23760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_mnkqmfqn7",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 24000,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_x6ayy39j6",
       "trackId": "_cvntna65n",
       "note": 73,
       "position": 22800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_vfm48p473",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 25680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_o2rkg2yy0",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 25920,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_5lfxbhrga",
       "trackId": "_cvntna65n",
       "note": 81,
       "position": 26280,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_8frt65uby",
       "trackId": "_cvntna65n",
       "note": 83,
       "position": 26640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_l7qoaijhl",
       "trackId": "_cvntna65n",
       "note": 83,
       "position": 26880,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_vqogxlrer",
       "trackId": "_cvntna65n",
       "note": 85,
       "position": 27240,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_il7fn6x7g",
       "trackId": "_cvntna65n",
       "note": 85,
       "position": 27600,
-      "length": 1200
+      "length": 1200,
+      "velocity": 127
     },
     {
       "id": "_q3yylrmvr",
       "trackId": "_cvntna65n",
       "note": 85,
       "position": 29520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_uhe1nyk4a",
       "trackId": "_cvntna65n",
       "note": 88,
       "position": 29760,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_1ebwunz25",
       "trackId": "_cvntna65n",
       "note": 85,
       "position": 30120,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_53imw5cwg",
       "trackId": "_cvntna65n",
       "note": 81,
       "position": 30480,
-      "length": 1200
+      "length": 1200,
+      "velocity": 127
     },
     {
       "id": "_kdfoezv7a",
       "trackId": "_cvntna65n",
       "note": 81,
       "position": 33360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_s8s2ybrka",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 33600,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_3xpi6x61s",
       "trackId": "_cvntna65n",
       "note": 85,
       "position": 34080,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_hppeae8zh",
       "trackId": "_cvntna65n",
       "note": 83,
       "position": 34560,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_1mxvn3fpg",
       "trackId": "_cvntna65n",
       "note": 85,
       "position": 34920,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_n6jk1fw0f",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 35280,
-      "length": 720
+      "length": 720,
+      "velocity": 127
     },
     {
       "id": "_zc2c2uknz",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 36000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bdpfahjk9",
       "trackId": "_cvntna65n",
       "note": 76,
       "position": 36240,
-      "length": 1200
+      "length": 1200,
+      "velocity": 127
     },
     {
       "id": "_c1v66xmi3",
       "trackId": "_cvntna65n",
       "note": 76,
       "position": 38160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_frwkewo6x",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 38400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_23h85vbf5",
       "trackId": "_cvntna65n",
       "note": 69,
       "position": 38640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_j0gfa8l34",
       "trackId": "_cvntna65n",
       "note": 74,
       "position": 38880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_yl0m69dnr",
       "trackId": "_cvntna65n",
       "note": 76,
       "position": 39120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_tyaybfsl3",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 39360,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_pthp6jssy",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 39720,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_v3tk0tmrb",
       "trackId": "_cvntna65n",
       "note": 81,
       "position": 40080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0d7vhtxh5",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 40320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_taiszl4bi",
       "trackId": "_cvntna65n",
       "note": 71,
       "position": 40560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_m4oweq29s",
       "trackId": "_cvntna65n",
       "note": 76,
       "position": 40800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_9atomu8eo",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 41040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_m2ij0mld1",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 41280,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_ukpwrc301",
       "trackId": "_cvntna65n",
       "note": 81,
       "position": 41640,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_8tjuvc0yx",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 42000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bv3tfk7j3",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 42240,
-      "length": 1680
+      "length": 1680,
+      "velocity": 127
     },
     {
       "id": "_w9g7z7cdm",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 43920,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_i0xcsjda9",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 44160,
-      "length": 1920
+      "length": 1920,
+      "velocity": 123.03125
     },
     {
       "id": "_e01yo9118",
       "trackId": "_cvntna65n",
       "note": 93,
       "position": 46080,
-      "length": 60
+      "length": 60,
+      "velocity": 125.015625
     },
     {
       "id": "_3jwnj32v2",
       "trackId": "_cvntna65n",
       "note": 92,
       "position": 46140,
-      "length": 60
+      "length": 60,
+      "velocity": 109.140625
     },
     {
       "id": "_k9e0don4z",
       "trackId": "_cvntna65n",
       "note": 90,
       "position": 46200,
-      "length": 60
+      "length": 60,
+      "velocity": 105.171875
     },
     {
       "id": "_bouz94qrg",
       "trackId": "_cvntna65n",
       "note": 86,
       "position": 46260,
-      "length": 60
+      "length": 60,
+      "velocity": 125.015625
     },
     {
       "id": "_8c0sqd8ov",
       "trackId": "_cvntna65n",
       "note": 81,
       "position": 46320,
-      "length": 60
+      "length": 60,
+      "velocity": 125.015625
     },
     {
       "id": "_sjgu1vjbk",
       "trackId": "_cvntna65n",
       "note": 80,
       "position": 46380,
-      "length": 60
+      "length": 60,
+      "velocity": 87.3125
     },
     {
       "id": "_sllxope9f",
       "trackId": "_cvntna65n",
       "note": 78,
       "position": 46440,
-      "length": 60
+      "length": 60,
+      "velocity": 125.015625
     },
     {
       "id": "_ovoupr3pz",
       "trackId": "_cvntna65n",
       "note": 74,
       "position": 46500,
-      "length": 60
+      "length": 60,
+      "velocity": 83.34375
     },
     {
       "id": "_lwam8yl8j",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 40080,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_mwky2j9vv",
       "trackId": "_dbi1mz80u",
       "note": 52,
       "position": 42000,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_s4fv65whd",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 39600,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_cgwtp24ue",
       "trackId": "_dbi1mz80u",
       "note": 47,
       "position": 41520,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_q5o5v8v24",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 43920,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_apgt53hhb",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 45840,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_2ccoa7055",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 43440,
-      "length": 480
+      "length": 480,
+      "velocity": 123.03125
     },
     {
       "id": "_27x64moqf",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 45360,
-      "length": 480
+      "length": 480,
+      "velocity": 125.015625
     },
     {
       "id": "_oagnqsje5",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 39360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0eovw6axe",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 39120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_h23fbs2nh",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 40080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_te6uc681e",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 38880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6qq6gygad",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 39840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ryeohct8i",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 38640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_weggm8lbm",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 39600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_lj65ut33v",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 38400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_iz2p6lnu8",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 41280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2fpuhnbui",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 41040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_7zxrhz186",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 42000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_31pbkc73t",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 40800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bry8k4ina",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 41760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_gnz1atz9h",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 40560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_pc1kkaeje",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 41520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hhvqu7fct",
       "trackId": "_0ckm6cga4",
       "note": 64,
       "position": 40320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_tfmrt2pl2",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 43200,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_59sdsaoo8",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 42960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_b2at87jhi",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 43920,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_50zflqzok",
       "trackId": "_0ckm6cga4",
       "note": 69,
       "position": 42720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_h65nhkwsa",
       "trackId": "_0ckm6cga4",
       "note": 69,
       "position": 43680,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_nybz9z7sz",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 42480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_4d7st3bu7",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 43440,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_e8q9aglfr",
       "trackId": "_0ckm6cga4",
       "note": 61,
       "position": 42240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_v16ebutn2",
       "trackId": "_0ckm6cga4",
       "note": 80,
       "position": 44160,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_veotpbbey",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 44400,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_pusfi3aqi",
       "trackId": "_0ckm6cga4",
       "note": 69,
       "position": 44640,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_c3glkoryh",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 44880,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_d846wi06i",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 45120,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_pk1zf2vgq",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 45360,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_d62iax5r5",
       "trackId": "_0ckm6cga4",
       "note": 69,
       "position": 45600,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_d89rpz903",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 45840,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_m8zjkh6zc",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 9600,
-      "length": 1920
+      "length": 1920,
+      "velocity": 127
     },
     {
       "id": "_i46d9vjvj",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 11520,
-      "length": 1920
+      "length": 1920,
+      "velocity": 127
     },
     {
       "id": "_l1hcjhy17",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 13440,
-      "length": 1920
+      "length": 1920,
+      "velocity": 127
     },
     {
       "id": "_33ivkzuis",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 11520,
-      "length": 1920
+      "length": 1920,
+      "velocity": 127
     },
     {
       "id": "_3e0w1h42o",
       "trackId": "_pgsypcvd6",
       "note": 52,
       "position": 13440,
-      "length": 1920
+      "length": 1920,
+      "velocity": 127
     },
     {
       "id": "_e50iw0svn",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 11520,
-      "length": 1920
+      "length": 1920,
+      "velocity": 127
     },
     {
       "id": "_pqy4mt5zw",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 13440,
-      "length": 1920
+      "length": 1920,
+      "velocity": 127
     },
     {
       "id": "_n0vxssp2d",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 47760,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_rojh1h72r",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 47280,
-      "length": 480
+      "length": 480,
+      "velocity": 125.015625
     },
     {
       "id": "_1mnnapcbt",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 49200,
-      "length": 480
+      "length": 480,
+      "velocity": 125.015625
     },
     {
       "id": "_irn1z1pvj",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 49680,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_3ag26xv3d",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 51120,
-      "length": 480
+      "length": 480,
+      "velocity": 125.015625
     },
     {
       "id": "_hvq9cx7wx",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 51600,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_bqeq8pyff",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 53040,
-      "length": 480
+      "length": 480,
+      "velocity": 123.03125
     },
     {
       "id": "_l6j5dfw28",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 53520,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_r0fnht4xy",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 55440,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_r84ur9ds3",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 54960,
-      "length": 480
+      "length": 480,
+      "velocity": 125.015625
     },
     {
       "id": "_bqayxs5qh",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 56880,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_tgsg8choz",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 57360,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_i3ygwt5b1",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 58800,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_xwtyt0ymx",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 59280,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ok53k5yrt",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 60720,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_ao8290ywd",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 61200,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_2b12iz142",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 48960,
-      "length": 960
+      "length": 960,
+      "velocity": 125.015625
     },
     {
       "id": "_enn9nzcnl",
       "trackId": "_pgsypcvd6",
       "note": 80,
       "position": 49920,
-      "length": 1920
+      "length": 1920,
+      "velocity": 125.015625
     },
     {
       "id": "_9tys6jgok",
       "trackId": "_pgsypcvd6",
       "note": 81,
       "position": 51840,
-      "length": 960
+      "length": 960,
+      "velocity": 123.03125
     },
     {
       "id": "_z2c3k3v9k",
       "trackId": "_pgsypcvd6",
       "note": 80,
       "position": 52800,
-      "length": 480
+      "length": 480,
+      "velocity": 123.03125
     },
     {
       "id": "_bgjptgqr5",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 53280,
-      "length": 480
+      "length": 480,
+      "velocity": 123.03125
     },
     {
       "id": "_vpuebns9l",
       "trackId": "_pgsypcvd6",
       "note": 73,
       "position": 53760,
-      "length": 2880
+      "length": 2880,
+      "velocity": 125.015625
     },
     {
       "id": "_dr6562ckw",
       "trackId": "_pgsypcvd6",
       "note": 71,
       "position": 56640,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_wcyuch5vt",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 57120,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_1mobvlio4",
       "trackId": "_pgsypcvd6",
       "note": 71,
       "position": 57600,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_yuei0lmsc",
       "trackId": "_pgsypcvd6",
       "note": 69,
       "position": 58560,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_mnb48dxaq",
       "trackId": "_pgsypcvd6",
       "note": 68,
       "position": 59520,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_6m7a2yeii",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 60480,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_2lintjn8d",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 60960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wzaq2q6rc",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 61200,
-      "length": 2160
+      "length": 2160,
+      "velocity": 127
     },
     {
       "id": "_18wlml1x2",
       "trackId": "_pgsypcvd6",
       "note": 71,
       "position": 63360,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_l4ka80rus",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 64320,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_mowoumt1c",
       "trackId": "_pgsypcvd6",
       "note": 80,
       "position": 65280,
-      "length": 1920
+      "length": 1920,
+      "velocity": 123.03125
     },
     {
       "id": "_kzidh7aon",
       "trackId": "_pgsypcvd6",
       "note": 81,
       "position": 67200,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_ggrci65uz",
       "trackId": "_pgsypcvd6",
       "note": 80,
       "position": 68160,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_vlrc3fv84",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 68640,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_853lyu193",
       "trackId": "_pgsypcvd6",
       "note": 73,
       "position": 69120,
-      "length": 2880
+      "length": 2880,
+      "velocity": 127
     },
     {
       "id": "_e5zy87a80",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 72000,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_z06irsjrb",
       "trackId": "_pgsypcvd6",
       "note": 78,
       "position": 72960,
-      "length": 3840
+      "length": 3840,
+      "velocity": 127
     },
     {
       "id": "_gy1khec2b",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 47040,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_mt1lvurt1",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 46800,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_w63xktjuc",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 47760,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_c5h4stgpz",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 48000,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_v274e6xsq",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 46560,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_pblbveyun",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 47520,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_inu8s23i1",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 48720,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_226t7o6jp",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 48480,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_5gwbpltsj",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 48960,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_2puulxmqz",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 46320,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_qerohw7ng",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 47280,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_dutp8wfck",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 48240,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_b2fiet9hc",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 49200,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_kkm6cti5i",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 49680,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_0s5ajcnme",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 49440,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_bfyb80o2z",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 50160,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_8x6pdsnra",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 50640,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_r4bkv8pe1",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 50400,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_dxf42lwno",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 46080,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_7ger5ioa0",
       "trackId": "_0ckm6cga4",
       "note": 61,
       "position": 49920,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_vie279int",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 50880,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_z07c2u02d",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 51120,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_1m5u5nktp",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 51600,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_uqn85wf8k",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 51360,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_84l873mgd",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 51840,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_q55ntk67e",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 52080,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_w2uzc5mgd",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 52560,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_gb5z4sd54",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 52320,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_5ll6dhubw",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 52800,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_tyhdocepx",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 53040,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_3zpeu4emo",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 53520,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_pxc6n9tao",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 53280,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_mtgz06aua",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 54480,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_aahat2wkd",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 54240,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_8v6o8ctqy",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 54720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_j3ufcqot4",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 54000,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_6th28z6fy",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 54960,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_hvr8ed15y",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 55440,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_54kblnb1h",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 55200,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_1h1wh5x4j",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 55680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_rqvuoe9a0",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 55920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_xdw6xkh4t",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 53760,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_7wptml8c3",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 56400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_kgfs7ps1u",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 56160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_jo8ogloeq",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 56640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_898jdz8mi",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 56880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_zwi70mm3f",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 57360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_yct1f94n7",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 57120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hu3rdnw3w",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 57840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_yku0gs929",
       "trackId": "_0ckm6cga4",
       "note": 61,
       "position": 57600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_5qtn274x1",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 58320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_qtidrjtos",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 58080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_qok11t92k",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 58560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_tr8v0l3wg",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 58800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_qk4tpzwe2",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 59280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_4npryif1z",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 59040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0pn899li1",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 59520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_yhk1c935v",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 59760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0kfdqumir",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 60240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_h2063e4rf",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 60000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_h8vyvkkwf",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 60480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_j5pa96c5v",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 60720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_fgzvsefbk",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 61200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_cadsnj67i",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 60960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wvkyu7q9m",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 62160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2vnjk0dhy",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 61920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_j02zd7d1s",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 62400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_vpjph7bns",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 61680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_uukkm0ice",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 62640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_e9p3ud921",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 63120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_x80mp9m2t",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 62880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ychsdw4k1",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 63360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_raaut4lc2",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 63600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_5nqcxgv6f",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 61440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_oh8sc4uym",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 64080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_k4id7uzzo",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 63840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_aeaxdduhw",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 64320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_q32irxrgy",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 64560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hhgo1ixb6",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 65040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_9htd74tsw",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 64800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_li4p7g8db",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 65520,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_lurwsgrgk",
       "trackId": "_0ckm6cga4",
       "note": 61,
       "position": 65280,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_5qkwyq700",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 66000,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_b2xwbui5l",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 65760,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_vby6pgfge",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 66240,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_o3f7rvtr2",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 66480,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_ygi0w9qw1",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 66960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_dg9nbwvyi",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 66720,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_xdo7w6atu",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 67200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_pvxnowiav",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 67440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_1mqju0ka6",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 67920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_7ep4liojw",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 67680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_coljh2eh6",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 68160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6f6fu4ao7",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 68400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_k1xuadi4u",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 68880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0wmonub40",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 68640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_zqxedfmue",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 69840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ly4nla42m",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 69600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_yq3u51s5n",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 70080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_i4lyiemuv",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 69360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_uwtihw5ok",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 70320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_r1mvdsjsl",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 70800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wwza0oxc1",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 70560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_u7kb33jsx",
       "trackId": "_0ckm6cga4",
       "note": 76,
       "position": 71040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_o0upshwkj",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 71280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_doky69w8u",
       "trackId": "_0ckm6cga4",
       "note": 62,
       "position": 69120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_sufxunfgw",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 71760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_7aexn0ncm",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 71520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bbu0po0vx",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 72000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_rw58zqqx0",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 72240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_br6d9b3wp",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 72720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_1thmi2wge",
       "trackId": "_0ckm6cga4",
       "note": 71,
       "position": 72480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_uafohiwfl",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 73200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_v61dh9hoj",
       "trackId": "_0ckm6cga4",
       "note": 61,
       "position": 72960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_xwz7eszas",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 73680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_85dx6vnvn",
       "trackId": "_0ckm6cga4",
       "note": 69,
       "position": 73440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wadefjq1e",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 73920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_36vmi4f9e",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 74160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ux674e0n9",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 74640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_a4c6trmoj",
       "trackId": "_0ckm6cga4",
       "note": 69,
       "position": 74400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hdijw2jy2",
       "trackId": "_0ckm6cga4",
       "note": 80,
       "position": 74880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_68e4tslyc",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 75120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_d6y24ewym",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 75600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_p4rejqkh1",
       "trackId": "_0ckm6cga4",
       "note": 69,
       "position": 75360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_daaacm5gi",
       "trackId": "_0ckm6cga4",
       "note": 78,
       "position": 75840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_jtn3q8gl0",
       "trackId": "_0ckm6cga4",
       "note": 66,
       "position": 76080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ulngxvlgw",
       "trackId": "_0ckm6cga4",
       "note": 73,
       "position": 76560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_55ul7zww8",
       "trackId": "_0ckm6cga4",
       "note": 69,
       "position": 76320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_9edtokd60",
       "trackId": "_pgsypcvd6",
       "note": 68,
       "position": 48000,
-      "length": 960
+      "length": 960,
+      "velocity": 125.015625
     },
     {
       "id": "_rwlh7lkb7",
       "trackId": "_pgsypcvd6",
       "note": 71,
       "position": 48960,
-      "length": 960
+      "length": 960,
+      "velocity": 125.015625
     },
     {
       "id": "_oi9c21u8q",
       "trackId": "_pgsypcvd6",
       "note": 71,
       "position": 48000,
-      "length": 960
+      "length": 960,
+      "velocity": 125.015625
     },
     {
       "id": "_3nqhuni35",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 49920,
-      "length": 1920
+      "length": 1920,
+      "velocity": 125.015625
     },
     {
       "id": "_z6p1mjrv8",
       "trackId": "_pgsypcvd6",
       "note": 78,
       "position": 51840,
-      "length": 960
+      "length": 960,
+      "velocity": 123.03125
     },
     {
       "id": "_xkb186n0x",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 52800,
-      "length": 480
+      "length": 480,
+      "velocity": 123.03125
     },
     {
       "id": "_vhnqv0dki",
       "trackId": "_pgsypcvd6",
       "note": 73,
       "position": 53280,
-      "length": 480
+      "length": 480,
+      "velocity": 123.03125
     },
     {
       "id": "_1466k9hdb",
       "trackId": "_pgsypcvd6",
       "note": 69,
       "position": 53760,
-      "length": 2880
+      "length": 2880,
+      "velocity": 125.015625
     },
     {
       "id": "_49qyhs8z9",
       "trackId": "_pgsypcvd6",
       "note": 68,
       "position": 56640,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_sdgjgj26w",
       "trackId": "_pgsypcvd6",
       "note": 71,
       "position": 57120,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_t39s8voeu",
       "trackId": "_pgsypcvd6",
       "note": 68,
       "position": 57600,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_9d1d41e0o",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 58560,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_bjj8klhe1",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 59520,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_ai027fbu5",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 60480,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_fbvil0v4x",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 60960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6pwdsq5zf",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 61200,
-      "length": 2160
+      "length": 2160,
+      "velocity": 127
     },
     {
       "id": "_swtskimea",
       "trackId": "_pgsypcvd6",
       "note": 68,
       "position": 63360,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_vdfg8bh8o",
       "trackId": "_pgsypcvd6",
       "note": 71,
       "position": 64320,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_er8fm665m",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 65280,
-      "length": 1920
+      "length": 1920,
+      "velocity": 123.03125
     },
     {
       "id": "_v9qmt3p8k",
       "trackId": "_pgsypcvd6",
       "note": 78,
       "position": 67200,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_811cemm4i",
       "trackId": "_pgsypcvd6",
       "note": 76,
       "position": 68160,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_jfeyn2w9i",
       "trackId": "_pgsypcvd6",
       "note": 73,
       "position": 68640,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_ay2gmbmsv",
       "trackId": "_pgsypcvd6",
       "note": 69,
       "position": 69120,
-      "length": 2880
+      "length": 2880,
+      "velocity": 127
     },
     {
       "id": "_wj4k3eime",
       "trackId": "_pgsypcvd6",
       "note": 71,
       "position": 72000,
-      "length": 960
+      "length": 960,
+      "velocity": 127
     },
     {
       "id": "_dr7etcogo",
       "trackId": "_pgsypcvd6",
       "note": 73,
       "position": 72960,
-      "length": 3840
+      "length": 3840,
+      "velocity": 127
     },
     {
       "id": "_1n8bac00g",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 62640,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_9fjduszyt",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 63120,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_y62kbqinz",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 64560,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_vixktj8da",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 65040,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_z63cwkaqq",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 66480,
-      "length": 480
+      "length": 480,
+      "velocity": 125.015625
     },
     {
       "id": "_gidd8yiha",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 66960,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_l4p13wzye",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 68400,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_c4z3ftohv",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 68880,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_b1zbqblds",
       "trackId": "_dbi1mz80u",
       "note": 45,
       "position": 70320,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_2ia3lhj79",
       "trackId": "_dbi1mz80u",
       "note": 50,
       "position": 70800,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_he7lccryy",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 72000,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_oi8r7rt76",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 72720,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_xej1p048z",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 74160,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_hhj8fq7fu",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 74640,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_j4w5ko8ft",
       "trackId": "_dbi1mz80u",
       "note": 49,
       "position": 76080,
-      "length": 480
+      "length": 480,
+      "velocity": 127
     },
     {
       "id": "_522vp1646",
       "trackId": "_dbi1mz80u",
       "note": 54,
       "position": 76560,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_hf6fb1lr7",
       "trackId": "_pgsypcvd6",
       "note": 62,
       "position": 9600,
-      "length": 1920
+      "length": 1920,
+      "velocity": 127
     },
     {
       "id": "_bcevn6ii0",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 9600,
-      "length": 1920
+      "length": 1920,
+      "velocity": 127
     },
     {
       "id": "_ocxia2z47",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 7680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_n3g9eqv23",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 8040,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_pwlvra501",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 8400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_u9j01cmcs",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 7680,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_lkwwgyz86",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 10320,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_di7ibrs6i",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 9600,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_42s12koqs",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 12240,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_w8sm96sz1",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 11520,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_7o60sdu0p",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 14160,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_jidd21edd",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 13440,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_diactm6a0",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 9600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bwal7qprs",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 9960,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_h3ffl4blo",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 10320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_z9n6m9lwp",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 11520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_5zby6ggwr",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 11880,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_3iicw8ig7",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 12240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_en3couhvt",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 13440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_oahoxm1p1",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 13800,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_85v8n5k71",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 14160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_7rly4rn71",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 8880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_gug3a3iqu",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 10800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2okorjo7q",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 12720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ilklkwsxq",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 14640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_y22ugrqkj",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 15360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bmb6bsrap",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 15720,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_hlblf2e3t",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 16080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_nhw74dwug",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 16560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_dkqrbj576",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 17280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_am7fs4dlw",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 17640,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_6d9wjjguf",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 18000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_vanzvn63s",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 18480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_w8okj0jaq",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 19200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_4yh0mk1s7",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 19560,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_xrhwtl3ay",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 19920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_gm1i129f7",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 20400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_mil2p2ist",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 21120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hcvakku0z",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 21480,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_edp6u1t9d",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 21840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0odjb4eug",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 22320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0gw0xnesu",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 23040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_4ehv70gi1",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 23400,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_y6ynyqb1w",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 23760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ms5e4b6c8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 24240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_12rbaxwg5",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 24960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_dq85umyx1",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 25320,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_drotikyyo",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 25680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_bnkfehzgs",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 26160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_dtdhnrpiu",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 26880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_79uhy2l26",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 27240,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_5t7r7gem7",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 27600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_0s6sxr66a",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 28080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_nx1n1r202",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 28800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_qjgzuzxi9",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 29160,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_hm0vzovfb",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 29520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_9lbnxh2a6",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 30000,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_28x7b20cq",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 30720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wxcdnlx9b",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 31080,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ujrewgfi6",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 31440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_h4xyma4ee",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 31920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_vn85uxx0n",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 32640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wy5uousq7",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 33000,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_aa2vam1sm",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 33360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wf0uwxxur",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 33840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_4bcit7mmw",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 34560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_oxw9e7opc",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 34920,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_8hdw5uh7x",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 35280,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_c10c8fxmj",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 35760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ztvag4i2m",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 36480,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_995x4r27k",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 36840,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_7ppf95h8c",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 37200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_fu02lnk48",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 37680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_qrogm9we0",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 38400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_z4apea2kb",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 38760,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_l2d4hpp0s",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 39120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_rbaz2847w",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 39600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_odw41zowm",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 40320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_blv7e09g8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 40680,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_nbuqwlkk6",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 41040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_3k5oaw4k8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 41520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_kbcqvdc56",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 42240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_6d8bgw4zi",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 42600,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ih9zei9tc",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 42960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_13tgfv6op",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 43440,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_wcu87jrmr",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 44160,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_i7009mz6n",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 44520,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_ro6gae913",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 44880,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_b1y4a0cfq",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 45360,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_4okob4kyr",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 46080,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_6o9edstg8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 46440,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_0c9mb4ksy",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 46800,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_0evwtbufo",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 47280,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_38zdxz6n8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 48000,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_c65zrjmch",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 48360,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_r5ylgkh41",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 48720,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_b7qffjlh0",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 49200,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_s3cnp34wn",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 49920,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_5x76lhvzh",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 50280,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_tt9lgjfq2",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 50640,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_5fv6k76q9",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 51120,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_radgo8u0x",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 51840,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_n5j8hxq3h",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 52200,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_bs7ei9zkt",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 52560,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_1lffqfjz8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 53040,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_gcwngqkuq",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 53760,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_0pi5ngw0g",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 54120,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_zp5ln3cm8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 54480,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_54gk2zln2",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 54960,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_jwvgcr9po",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 55680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_m0bww9rkn",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 56040,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_tjmmvxxdq",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 56400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_1vw3pjx3s",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 56880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_y4p05jvws",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 57600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_stavj13pc",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 57960,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_yvynfdetn",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 58320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_yl08zuo7i",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 58800,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_cjtg0f6qs",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 59520,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_1abesynz8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 59880,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_4x6bw4w9g",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 60240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_3bywlx7ig",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 60720,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_y1417yzlh",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 61440,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wyq9pqr83",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 61800,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_xfsv0u7ns",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 62160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_zk7atbyq2",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 62640,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_2ir8e2k4y",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 63360,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_lv6l1vvup",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 63720,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_43x9zk488",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 64080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_vftxw6nui",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 64560,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_m48qb7wl6",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 65280,
-      "length": 240
+      "length": 240,
+      "velocity": 123.03125
     },
     {
       "id": "_tct4xljmu",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 65640,
-      "length": 120
+      "length": 120,
+      "velocity": 121.046875
     },
     {
       "id": "_ufaaxrcbg",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 66000,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_1e9ic0hmh",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 66480,
-      "length": 240
+      "length": 240,
+      "velocity": 125.015625
     },
     {
       "id": "_a9iiw3iaa",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 67200,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_k5xnedls7",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 67560,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_sn3t52t4b",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 67920,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_egp0ymt2l",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 68400,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_ne67bipxu",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 69120,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wwgmj07l4",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 69480,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_f0ugkx5a7",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 69840,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_37siy86d8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 70320,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_x3yrzwuhb",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 71040,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_39ao7xy4y",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 71400,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ufl2p10wv",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 71760,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_j832u20j2",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 72240,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_31vw1kw1y",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 72960,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_wgf2v7hdj",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 73320,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ejvm6ltci",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 73680,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_hi4vz2vmj",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 74160,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_000o0olw8",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 74880,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_izhskibnw",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 75240,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_kps9hgkqn",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 75600,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_9dnb8f8w9",
       "trackId": "_2ak8ohre8",
       "note": 60,
       "position": 76080,
-      "length": 240
+      "length": 240,
+      "velocity": 127
     },
     {
       "id": "_8ie7xlhh3",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 16080,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_awxwbno9c",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 15360,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_75c3lp68w",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 18000,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_vcl29c4o8",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 17280,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_isostnak2",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 19920,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_h59vp9fc8",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 19200,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_lhnbna2nn",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 21840,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_y9xnhi9hp",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 21120,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_316ib43it",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 23760,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_gay7yu9mt",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 23040,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_m6q0pvpja",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 25680,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_mzeurxu1q",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 24960,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_f9bx91g1q",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 27600,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_h1o1meq1w",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 26880,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_ud6rp578i",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 29520,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_rdaed4i1c",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 28800,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_nst7rw6um",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 31440,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_l3ox9d6w2",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 30720,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_jw9tpej2i",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 33360,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_myehuei04",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 32640,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_730v9y2sh",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 35280,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_hprdmpm9h",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 34560,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_ecnucaiwe",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 37200,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_hokfugp5k",
       "trackId": "_dbi1mz80u",
       "note": 37,
       "position": 36480,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_tql4xmobq",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 39120,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_3vsj1r46o",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 38400,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_8dgp36gns",
       "trackId": "_dbi1mz80u",
       "note": 40,
       "position": 41040,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ey57g57f4",
       "trackId": "_dbi1mz80u",
       "note": 40,
       "position": 40320,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_12n5wi874",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 42960,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_z3t3kp020",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 42240,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_y7ib7rcfc",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 44880,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_7i2dqtkwp",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 44160,
-      "length": 360
+      "length": 360,
+      "velocity": 123.03125
     },
     {
       "id": "_n5o98pc51",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 46800,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_iptf68aro",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 46080,
-      "length": 360
+      "length": 360,
+      "velocity": 125.015625
     },
     {
       "id": "_54k1b4nod",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 48720,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_uz5l4v818",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 48000,
-      "length": 360
+      "length": 360,
+      "velocity": 125.015625
     },
     {
       "id": "_kkqduas2t",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 50640,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_x7dw2cw3d",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 49920,
-      "length": 360
+      "length": 360,
+      "velocity": 125.015625
     },
     {
       "id": "_ov3ahk1r4",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 52560,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_etkk8i06q",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 51840,
-      "length": 360
+      "length": 360,
+      "velocity": 123.03125
     },
     {
       "id": "_oj01tppqt",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 54480,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_on7hmvvhw",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 53760,
-      "length": 360
+      "length": 360,
+      "velocity": 125.015625
     },
     {
       "id": "_azkcip5ub",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 56400,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_aawergp24",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 55680,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_xjsuonwld",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 58320,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_09hcbp5yg",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 57600,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_gk1lg70gc",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 60240,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_bqnlna89x",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 59520,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_x3n8135a2",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 62160,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_s18olu0nd",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 61440,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_kw3yzq300",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 64080,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ilr0xkmjg",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 63360,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_pjodzbwmh",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 66000,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_07omkdjgm",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 65280,
-      "length": 360
+      "length": 360,
+      "velocity": 123.03125
     },
     {
       "id": "_7171t2uob",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 67920,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_hx1cdlb0r",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 67200,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_uy7b6scx0",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 69840,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_e6q4mvku1",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 69120,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_l651zpyhl",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 71760,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_z83pzy3z8",
       "trackId": "_dbi1mz80u",
       "note": 38,
       "position": 71040,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_yvoypbn6f",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 73680,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_6wbmv95f7",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 72960,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_hz1kqrtx7",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 75600,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_p1boj3hp8",
       "trackId": "_dbi1mz80u",
       "note": 42,
       "position": 74880,
-      "length": 360
+      "length": 360,
+      "velocity": 127
     },
     {
       "id": "_47h3fu9du",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 15840,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_mdyc47nn0",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 15840,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_g7tabph9a",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 15840,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_2eplh2yly",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 16560,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_3omixv068",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 16560,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_hrsa42p2u",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 16560,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_1o8lw2rs4",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 17760,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_wfgvolron",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 17760,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_mdmsfnu1l",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 17760,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_3mkk2iuoy",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 18480,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_or3l8jdka",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 18480,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_22rw3zmzg",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 18480,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_hoffiqlju",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 19680,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_gglj1mnwc",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 19680,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_d6i85zvt6",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 19680,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_h4ffljsby",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 20400,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_xhwtexx7o",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 20400,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_w3g73smo8",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 20400,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_y3e7tsxhq",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 21600,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_mfftx0kw4",
       "trackId": "_pgsypcvd6",
       "note": 63,
       "position": 21600,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_lwqhnnjbs",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 21600,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_vj0phxmol",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 22320,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_0wf7xoasr",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 22320,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_fifopkys9",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 22320,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_1u7y2haxu",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 23520,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_gm2f2ah4j",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 23520,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_e8mlwdjk6",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 23520,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_tvfjqft6y",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 24240,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_c50uzqbme",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 24240,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_fl48xfs6m",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 24240,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ms1qjhs3a",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 25440,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_2v122gym4",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 25440,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_oyibrbiwp",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 25440,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ith9ktfws",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 26160,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_kopo0s00z",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 26160,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_bwta18zp3",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 26160,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_p2a08iytb",
       "trackId": "_pgsypcvd6",
       "note": 68,
       "position": 27360,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_4ylvsprjj",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 27360,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_meoootilp",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 27360,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_k1m1849cx",
       "trackId": "_pgsypcvd6",
       "note": 68,
       "position": 28080,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_8m4amxfx4",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 28080,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_rwk305q92",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 28080,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_iqa7jakc2",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 29280,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_s2qi83em9",
       "trackId": "_pgsypcvd6",
       "note": 69,
       "position": 29280,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_53we376l1",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 29280,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_rgiz0yves",
       "trackId": "_pgsypcvd6",
       "note": 68,
       "position": 30000,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_h4em0zgij",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 30000,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_42v7n8sty",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 30000,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_z389y16b4",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 31200,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_xspi7au9b",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 31200,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_2b295ouci",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 31200,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_glempfkru",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 31920,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_zen3qzzhr",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 31920,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_l9xsjhtrj",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 31920,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_6gxbrutlb",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 33120,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_9kqale2n5",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 33120,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_m7qfiamdj",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 33120,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_awgq7zgsa",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 33840,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_x9k3mliaz",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 33840,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_9dky95g4y",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 33840,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_n4mg1ybyl",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 35040,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_djm9khp1i",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 35040,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_3iyzehhg3",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 35040,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_jq0jkrgxf",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 35760,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_shg9gx0by",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 35760,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_klk0nd3h2",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 35760,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_463q8k2tb",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 36960,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_rabyae9if",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 36960,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_bgxvspi7d",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 36960,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_zqfknf48o",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 37680,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_r0uyikpuw",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 37680,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_up2il2w41",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 37680,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_4ln665249",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 38880,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_moii4ishg",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 38880,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_0gocwullf",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 38880,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_dyjt9y88g",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 39600,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_oyd8mkipb",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 39600,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ovajun22i",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 39600,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_wkusi0ynl",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 40800,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_0hb8pdkdi",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 40800,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_y8jpbzqxa",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 40800,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_8i9fhtdjw",
       "trackId": "_pgsypcvd6",
       "note": 64,
       "position": 41520,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_iyc3yybyh",
       "trackId": "_pgsypcvd6",
       "note": 59,
       "position": 41520,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_ryvd3m62z",
       "trackId": "_pgsypcvd6",
       "note": 56,
       "position": 41520,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_jdheb9okk",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 42720,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_75pbnhdt8",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 42720,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_0bnn3fyxo",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 42720,
-      "length": 120
+      "length": 120,
+      "velocity": 127
     },
     {
       "id": "_4qpncw11j",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 43440,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_wud6w0cru",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 43440,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_4p2kk4zgy",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 43440,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_codly27c1",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 44640,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_l0ukisl04",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 44640,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_aq6gqblea",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 44640,
-      "length": 120
+      "length": 120,
+      "velocity": 123.03125
     },
     {
       "id": "_oypk0qzvr",
       "trackId": "_pgsypcvd6",
       "note": 66,
       "position": 45360,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_zb4ze97mw",
       "trackId": "_pgsypcvd6",
       "note": 61,
       "position": 45360,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     },
     {
       "id": "_nvgoa46pg",
       "trackId": "_pgsypcvd6",
       "note": 57,
       "position": 45360,
-      "length": 120
+      "length": 120,
+      "velocity": 125.015625
     }
   ],
   "tracks": [
@@ -5862,7 +6695,8 @@
                     "settings": {
                       "VCO": {
                         "waveType": "sine",
-                        "octave": 0
+                        "octave": 0,
+                        "fine": 0
                       },
                       "ADSR": {
                         "attackTime": 0.001,
@@ -5873,6 +6707,7 @@
                       "FM": {
                         "waveType": "sine",
                         "freqRatio": 4.5,
+                        "detune": 0,
                         "amp": 315
                       },
                       "Vibrato": {
@@ -5893,8 +6728,6 @@
           ]
         }
       },
-      "solo": false,
-      "mute": false,
       "effects": [
         {
           "id": "DelayExtNode",
@@ -5903,7 +6736,10 @@
             "delayFeed": 0.38999998569488525,
             "delayMix": 0.3199999928474426
           }
-        }
+        },
+        null,
+        null,
+        null
       ],
       "volume": 0.03999999910593033
     },
@@ -5927,7 +6763,8 @@
                     "settings": {
                       "VCO": {
                         "waveType": "sawtooth",
-                        "octave": 0
+                        "octave": 0,
+                        "fine": 0
                       },
                       "ADSR": {
                         "attackTime": 0.010999999999999998,
@@ -5938,6 +6775,7 @@
                       "FM": {
                         "waveType": "sawtooth",
                         "freqRatio": 0.25,
+                        "detune": 0,
                         "amp": 360
                       },
                       "Vibrato": {
@@ -5968,8 +6806,6 @@
           ]
         }
       },
-      "solo": false,
-      "mute": false,
       "effects": [
         {
           "id": "DelayExtNode",
@@ -5978,7 +6814,10 @@
             "delayFeed": 0.5,
             "delayMix": 0.23000000417232513
           }
-        }
+        },
+        null,
+        null,
+        null
       ],
       "volume": 0.017999999225139618
     },
@@ -6002,7 +6841,8 @@
                     "settings": {
                       "VCO": {
                         "waveType": "sawtooth",
-                        "octave": 0
+                        "octave": 0,
+                        "fine": 0
                       },
                       "ADSR": {
                         "attackTime": 0.389,
@@ -6040,7 +6880,8 @@
                     "settings": {
                       "VCO": {
                         "waveType": "triangle",
-                        "octave": 0
+                        "octave": 0,
+                        "fine": 0
                       },
                       "ADSR": {
                         "attackTime": 0.49,
@@ -6077,17 +6918,11 @@
           ]
         }
       },
-      "solo": false,
-      "mute": false,
       "effects": [
-        {
-          "id": "DelayExtNode",
-          "settings": {
-            "delayTime": 0.30000001192092896,
-            "delayFeed": 0.20000000298023224,
-            "delayMix": 0
-          }
-        }
+        null,
+        null,
+        null,
+        null
       ],
       "volume": 0.03799999877810478
     },
@@ -6111,7 +6946,8 @@
                     "settings": {
                       "VCO": {
                         "waveType": "sawtooth",
-                        "octave": 0
+                        "octave": 0,
+                        "fine": 0
                       },
                       "ADSR": {
                         "attackTime": 0.044,
@@ -6148,17 +6984,11 @@
           ]
         }
       },
-      "solo": false,
-      "mute": false,
       "effects": [
-        {
-          "id": "DelayExtNode",
-          "settings": {
-            "delayTime": 0.30000001192092896,
-            "delayFeed": 0.20000000298023224,
-            "delayMix": 0
-          }
-        }
+        null,
+        null,
+        null,
+        null
       ],
       "volume": 0.050999999046325684
     },
@@ -6182,7 +7012,8 @@
                     "settings": {
                       "VCO": {
                         "waveType": "sine",
-                        "octave": 0
+                        "octave": 0,
+                        "fine": 0
                       },
                       "ADSR": {
                         "attackTime": 0.01,
@@ -6321,27 +7152,25 @@
           ]
         }
       },
-      "solo": false,
-      "mute": false,
       "effects": [
-        {
-          "id": "DelayExtNode",
-          "settings": {
-            "delayTime": 0.30000001192092896,
-            "delayFeed": 0.20000000298023224,
-            "delayMix": 0
-          }
-        }
+        null,
+        null,
+        null,
+        null
       ],
       "volume": 0.06000000238418579
     }
   ],
-  "focusedTrack": "_pgsypcvd6",
-  "cursor": 18975,
-  "stepLength": 240,
-  "visibleArea": {
-    "from": 0,
-    "to": 33494.988463780435
-  },
-  "recording": true
+  "editor": {
+    "focusedTrack": "_0ckm6cga4",
+    "cursor": 48306,
+    "stepLength": 480,
+    "visibleArea": {
+      "from": 47731.24627976504,
+      "to": 71596.86941964756
+    },
+    "recording": true,
+    "solo": null,
+    "mute": []
+  }
 }
