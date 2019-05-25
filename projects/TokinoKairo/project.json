@@ -6674,30 +6674,6 @@
       "velocity": 125.015625
     },
     {
-      "id": "_h8sai2o5n",
-      "trackId": "_0ckm6cga4",
-      "note": 53,
-      "position": 13922,
-      "length": 480,
-      "velocity": 127
-    },
-    {
-      "id": "_cn6ousjm4",
-      "trackId": "_0ckm6cga4",
-      "note": 59,
-      "position": 14402,
-      "length": 480,
-      "velocity": 127
-    },
-    {
-      "id": "_9cu9g3oz1",
-      "trackId": "_cvntna65n",
-      "note": 57,
-      "position": 14882,
-      "length": 480,
-      "velocity": 127
-    },
-    {
       "id": "_v1lx7k2kg",
       "trackId": "_2ak8ohre8",
       "note": 55,
@@ -7201,12 +7177,12 @@
     }
   ],
   "editor": {
-    "focusedTrack": "_0ckm6cga4",
-    "cursor": 4766,
+    "focusedTrack": "_cvntna65n",
+    "cursor": 10532,
     "stepLength": 480,
     "visibleArea": {
-      "from": 0,
-      "to": 10945.073271461659
+      "from": 7516.426616518076,
+      "to": 13817.38967926545
     },
     "recording": true,
     "solo": null,
